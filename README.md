@@ -1,85 +1,85 @@
-# ËÄÔòÔËËã
+# å››åˆ™è¿ç®—
 
-[GitHub²Ö¿â](https://github.com/EdwardLiu-Aurora/MyApp)
+[GitHubä»“åº“](https://github.com/EdwardLiu-Aurora/MyApp)
 
-## ¹¦ÄÜÊµÏÖ
+## åŠŸèƒ½å®ç°
 
-- [x] Ê¹ÓÃ -n ²ÎÊı¿ØÖÆÉú³ÉÌâÄ¿µÄ¸öÊı£¬²¢ÇÒ¸ù¾İ½â¿Õ¼äÏŞÖÆÓÃ»§Éè¶¨µÄ·¶Î§(Èç range == 2 Ê±£¬ÓÃ»§È´ÒªÇóÉú³É 10000 µÀÌâÄ¿£¬ÕâÃ÷ÏÔ²»ºÏÀí)
-- [x] Ê¹ÓÃ -r ²ÎÊı¿ØÖÆÌâÄ¿ÖĞ**×ÔÈ»Êı¡¢Õæ·ÖÊı¡¢Õæ·ÖÊı·ÖÄ¸µÄ·¶Î§** ¸Ã²ÎÊı¿ÉÒÔÉèÖÃÎª**´óÓÚ 2 µÄ×ÔÈ»Êı**
-- [x] Éú³ÉµÄÌâÄ¿ÔÚ¼ÆËã¹ı³Ì²»ÄÜ²úÉú¸ºÊı
-- [x] Éú³ÉµÄÌâÄ¿ÖĞÈç¹û´æÔÚĞÎÈçe<sub>1</sub> ¡Â e<sub>2</sub>µÄ×Ó±í´ïÊ½£¬ÄÇÃ´Æä½á¹ûÓ¦ÊÇ**Õæ·ÖÊı**
-- [x] ³ÌĞòÒ»´ÎÔËĞĞÉú³ÉµÄÌâÄ¿**²»ÄÜÖØ¸´**£¬Éú³ÉµÄÌâÄ¿´æÈëÖ´ĞĞ³ÌĞòÄ¿Â¼ÏÂµÄ**Exercises.txt**ÎÄ¼şÖĞ
-- [x] Ã¿µÀÌâÄ¿ÖĞ³öÏÖµÄÔËËã·û¸öÊı²»³¬¹ı3¸ö(²»°üÀ¨À¨ºÅ)
-- [x] ÔÚÉú³ÉÌâÄ¿µÄÍ¬Ê±£¬¼ÆËã³öËùÓĞÌâÄ¿µÄ´ğ°¸£¬²¢´æÈëÖ´ĞĞ³ÌĞòµÄµ±Ç°Ä¿Â¼ÏÂµÄ**Answers.txt**ÎÄ¼ş
-- [x] ³ÌĞòÓ¦ÄÜÖ§³ÖÒ»ÍòµÀÌâÄ¿µÄÉú³É¡£
-- [x] ³ÌĞòÖ§³Ö¶Ô¸ø¶¨µÄÌâÄ¿ÎÄ¼şºÍ´ğ°¸ÎÄ¼ş£¬ÅĞ¶¨´ğ°¸ÖĞµÄ¶Ô´í²¢½øĞĞÊıÁ¿Í³¼Æ¡£
+- [x] ä½¿ç”¨ -n å‚æ•°æ§åˆ¶ç”Ÿæˆé¢˜ç›®çš„ä¸ªæ•°ï¼Œå¹¶ä¸”æ ¹æ®è§£ç©ºé—´é™åˆ¶ç”¨æˆ·è®¾å®šçš„èŒƒå›´(å¦‚ range == 2 æ—¶ï¼Œç”¨æˆ·å´è¦æ±‚ç”Ÿæˆ 10000 é“é¢˜ç›®ï¼Œè¿™æ˜æ˜¾ä¸åˆç†)
+- [x] ä½¿ç”¨ -r å‚æ•°æ§åˆ¶é¢˜ç›®ä¸­**è‡ªç„¶æ•°ã€çœŸåˆ†æ•°ã€çœŸåˆ†æ•°åˆ†æ¯çš„èŒƒå›´** è¯¥å‚æ•°å¯ä»¥è®¾ç½®ä¸º**å¤§äº 2 çš„è‡ªç„¶æ•°**
+- [x] ç”Ÿæˆçš„é¢˜ç›®åœ¨è®¡ç®—è¿‡ç¨‹ä¸èƒ½äº§ç”Ÿè´Ÿæ•°
+- [x] ç”Ÿæˆçš„é¢˜ç›®ä¸­å¦‚æœå­˜åœ¨å½¢å¦‚e<sub>1</sub> Ã· e<sub>2</sub>çš„å­è¡¨è¾¾å¼ï¼Œé‚£ä¹ˆå…¶ç»“æœåº”æ˜¯**çœŸåˆ†æ•°**
+- [x] ç¨‹åºä¸€æ¬¡è¿è¡Œç”Ÿæˆçš„é¢˜ç›®**ä¸èƒ½é‡å¤**ï¼Œç”Ÿæˆçš„é¢˜ç›®å­˜å…¥æ‰§è¡Œç¨‹åºç›®å½•ä¸‹çš„**Exercises.txt**æ–‡ä»¶ä¸­
+- [x] æ¯é“é¢˜ç›®ä¸­å‡ºç°çš„è¿ç®—ç¬¦ä¸ªæ•°ä¸è¶…è¿‡3ä¸ª(ä¸åŒ…æ‹¬æ‹¬å·)
+- [x] åœ¨ç”Ÿæˆé¢˜ç›®çš„åŒæ—¶ï¼Œè®¡ç®—å‡ºæ‰€æœ‰é¢˜ç›®çš„ç­”æ¡ˆï¼Œå¹¶å­˜å…¥æ‰§è¡Œç¨‹åºçš„å½“å‰ç›®å½•ä¸‹çš„**Answers.txt**æ–‡ä»¶
+- [x] ç¨‹åºåº”èƒ½æ”¯æŒä¸€ä¸‡é“é¢˜ç›®çš„ç”Ÿæˆã€‚
+- [x] ç¨‹åºæ”¯æŒå¯¹ç»™å®šçš„é¢˜ç›®æ–‡ä»¶å’Œç­”æ¡ˆæ–‡ä»¶ï¼Œåˆ¤å®šç­”æ¡ˆä¸­çš„å¯¹é”™å¹¶è¿›è¡Œæ•°é‡ç»Ÿè®¡ã€‚
 
-## Éè¼Æ¹ı³Ì
+## è®¾è®¡è¿‡ç¨‹
 
-### ±í´ïÊ½µÄÉú³É
+### è¡¨è¾¾å¼çš„ç”Ÿæˆ
 
-¸ù¾İÌâÄ¿µÄÒªÇó£¬±í´ïÊ½ÖĞÔËËã·û²»ÄÜ³¬¹ı 3 ¸ö£¬Òò´ËËùÉú³ÉµÄ±í´ïÊ½ÖÖÀà¿ÉÒÔ¹éÄÉÎªÒÔÏÂËÄÀà£º
+æ ¹æ®é¢˜ç›®çš„è¦æ±‚ï¼Œè¡¨è¾¾å¼ä¸­è¿ç®—ç¬¦ä¸èƒ½è¶…è¿‡ 3 ä¸ªï¼Œå› æ­¤æ‰€ç”Ÿæˆçš„è¡¨è¾¾å¼ç§ç±»å¯ä»¥å½’çº³ä¸ºä»¥ä¸‹å››ç±»ï¼š
 
-- µ¥Ëã×Ó±í´ïÊ½
-    - ĞÍÈç A ? B µÄ±í´ïÊ½
-    - ÔÚÉú³É±í´ïÊ½Ê±ÔÚ** + ¡Á **ÕâÖÖÓµÓĞ½»»»ÂÉµÄ·ûºÅÊ±£¬Ä¬ÈÏ°´ÕÕ²éÖØÊ½ A < B µÄË³ĞòÅÅĞò²éÖØ¼´¿É
-- Ë«Ëã×Ó±í´ïÊ½ 
-    - ĞÍÈç (A ? B) ? C µÄ±í´ïÊ½
-    - ÔÚÉú³É±í´ïÊ½Ê±Ö»Òª±£Ö¤À¨ºÅÄÚµÄ·ûºÅÂú×ã½»»»ÂÉÊ±£¬Ä¬ÈÏ°´ÕÕ²éÖØÊ½ A < B µÄË³ĞòÅÅĞò²éÖØ¼´¿É
-- ÈıËã×Ó A ĞÍ±í´ïÊ½
-    - ĞÍÈç ((A ? B) ? C) ? D) µÄ±í´ïÊ½
-    - ÔÚÉú³É±í´ïÊ½Ê±£¬²éÖØ¹æÔòºÍË«Ëã×Ó±í´ïÊ½Ò»Ñù£¬Ö»ĞèÒª±£³Ö²éÖØÊ½ÖĞ A < B ¶øÎŞĞè¹ËÂÇ C ºÍ D£¬ÒòÎª¸ù¾İÌâÄ¿¶¨Òå ((A ? B) ? C) ? D) ºÍ ((A ? B) ? D) ? C) ÊÇÁ½µÀ²»Í¬µÄÌâÄ¿
-- ÈıËã×Ó B ĞÍ±í´ïÊ½
-    - ĞÍÈç (A ? B) ? (C ? D) µÄ±í´ïÊ½
-    - ÔÚÉú³É±í´ïÊ½Ê±£¬±£Ö¤²éÖØÊ½ A < B ÇÒ C < D ÇÒ A < C ¼´¿É¡£
+- å•ç®—å­è¡¨è¾¾å¼
+    - å‹å¦‚ A ? B çš„è¡¨è¾¾å¼
+    - åœ¨ç”Ÿæˆè¡¨è¾¾å¼æ—¶åœ¨** + Ã— **è¿™ç§æ‹¥æœ‰äº¤æ¢å¾‹çš„ç¬¦å·æ—¶ï¼Œé»˜è®¤æŒ‰ç…§æŸ¥é‡å¼ A < B çš„é¡ºåºæ’åºæŸ¥é‡å³å¯
+- åŒç®—å­è¡¨è¾¾å¼ 
+    - å‹å¦‚ (A ? B) ? C çš„è¡¨è¾¾å¼
+    - åœ¨ç”Ÿæˆè¡¨è¾¾å¼æ—¶åªè¦ä¿è¯æ‹¬å·å†…çš„ç¬¦å·æ»¡è¶³äº¤æ¢å¾‹æ—¶ï¼Œé»˜è®¤æŒ‰ç…§æŸ¥é‡å¼ A < B çš„é¡ºåºæ’åºæŸ¥é‡å³å¯
+- ä¸‰ç®—å­ A å‹è¡¨è¾¾å¼
+    - å‹å¦‚ ((A ? B) ? C) ? D) çš„è¡¨è¾¾å¼
+    - åœ¨ç”Ÿæˆè¡¨è¾¾å¼æ—¶ï¼ŒæŸ¥é‡è§„åˆ™å’ŒåŒç®—å­è¡¨è¾¾å¼ä¸€æ ·ï¼Œåªéœ€è¦ä¿æŒæŸ¥é‡å¼ä¸­ A < B è€Œæ— éœ€é¡¾è™‘ C å’Œ Dï¼Œå› ä¸ºæ ¹æ®é¢˜ç›®å®šä¹‰ ((A ? B) ? C) ? D) å’Œ ((A ? B) ? D) ? C) æ˜¯ä¸¤é“ä¸åŒçš„é¢˜ç›®
+- ä¸‰ç®—å­ B å‹è¡¨è¾¾å¼
+    - å‹å¦‚ (A ? B) ? (C ? D) çš„è¡¨è¾¾å¼
+    - åœ¨ç”Ÿæˆè¡¨è¾¾å¼æ—¶ï¼Œä¿è¯æŸ¥é‡å¼ A < B ä¸” C < D ä¸” A < C å³å¯ã€‚
 
-![ËÄÖÖ±í´ïÊ½µÄ¾ÙÀı](resources/image1.png)
+![å››ç§è¡¨è¾¾å¼çš„ä¸¾ä¾‹](resources/image1.png)
 
-> ÉÏÊö±í´ïÖĞÓĞ¼¸µãĞèÒª½âÊÍ£º
+> ä¸Šè¿°è¡¨è¾¾ä¸­æœ‰å‡ ç‚¹éœ€è¦è§£é‡Šï¼š
 >
-> ²éÖØÊ½£ºÔÚÉú³ÉËÄÔòÔËËãÌâÄ¿Ê±£¬ÎªÁË¼ì²éÌâÄ¿ÖØ¸´¶ø¶ÔÌâÄ¿ÊéĞ´½øĞĞÁËÌØ¶¨ÅÅĞòµÄ±í´ïÊ½¡£¸Ã±í´ïÊ½ÓïÒåºÍÊµ¼ÊÌâÄ¿ÊÇÒ»ÑùµÄ£¬¶øÖ»Îª²éÖØ·şÎñ£¬¿ÉÄÜ²»»á³öÏÖÔÚ×îÖÕµÄÌâÄ¿Àï¡£ÀıÈç 1 + 2 ¾ÍÊÇ 2 + 1 µÄ²éÖØÊ½£¬(1 + 3) + (2 + 4) ÊÇ (4 + 2) + (3 + 1) µÄ²éÖØÊ½
+> æŸ¥é‡å¼ï¼šåœ¨ç”Ÿæˆå››åˆ™è¿ç®—é¢˜ç›®æ—¶ï¼Œä¸ºäº†æ£€æŸ¥é¢˜ç›®é‡å¤è€Œå¯¹é¢˜ç›®ä¹¦å†™è¿›è¡Œäº†ç‰¹å®šæ’åºçš„è¡¨è¾¾å¼ã€‚è¯¥è¡¨è¾¾å¼è¯­ä¹‰å’Œå®é™…é¢˜ç›®æ˜¯ä¸€æ ·çš„ï¼Œè€Œåªä¸ºæŸ¥é‡æœåŠ¡ï¼Œå¯èƒ½ä¸ä¼šå‡ºç°åœ¨æœ€ç»ˆçš„é¢˜ç›®é‡Œã€‚ä¾‹å¦‚ 1 + 2 å°±æ˜¯ 2 + 1 çš„æŸ¥é‡å¼ï¼Œ(1 + 3) + (2 + 4) æ˜¯ (4 + 2) + (3 + 1) çš„æŸ¥é‡å¼
 >
-> ÍµÀÁµÄĞ´·¨£ºÒòÎªÊµ¼ÊÉÏ£¬³¤µÄ±í´ïÊ½ÖĞ°üº¬ÁË¶ÌµÄ±í´ïÊ½£¬ÎÒÃÇÖ»ĞèÒªĞ´ºÃ**µ¥Ëã×Ó±í´ïÊ½**ºÍ**Ë«Ëã×Ó±í´ïÊ½**£¬ºóÃæµÄ±í´ïÊ½Éú³Éº¯Êı¾Í¿ÉÒÔÖ±½ÓÌ×ÓÃÇ°ÃæÁ½¸öÉú³ÉÆ÷µÄÄ£Ê½£¬¶ø¼õÉÙÁËºÜ¶àÖØ¸´ÀÍ¶¯¡£¼´ÈçË«Ëã×Ó±í´ïÊ½ÀïµÄ(A ? B)²¿·Ö¿ÉÒÔÒÀ¿¿µ¥Ëã×Ó±í´ïÊ½Éú³ÉÆ÷½øĞĞÉú³É¡£
+> å·æ‡’çš„å†™æ³•ï¼šå› ä¸ºå®é™…ä¸Šï¼Œé•¿çš„è¡¨è¾¾å¼ä¸­åŒ…å«äº†çŸ­çš„è¡¨è¾¾å¼ï¼Œæˆ‘ä»¬åªéœ€è¦å†™å¥½**å•ç®—å­è¡¨è¾¾å¼**å’Œ**åŒç®—å­è¡¨è¾¾å¼**ï¼Œåé¢çš„è¡¨è¾¾å¼ç”Ÿæˆå‡½æ•°å°±å¯ä»¥ç›´æ¥å¥—ç”¨å‰é¢ä¸¤ä¸ªç”Ÿæˆå™¨çš„æ¨¡å¼ï¼Œè€Œå‡å°‘äº†å¾ˆå¤šé‡å¤åŠ³åŠ¨ã€‚å³å¦‚åŒç®—å­è¡¨è¾¾å¼é‡Œçš„(A ? B)éƒ¨åˆ†å¯ä»¥ä¾é å•ç®—å­è¡¨è¾¾å¼ç”Ÿæˆå™¨è¿›è¡Œç”Ÿæˆã€‚
 
-### ¸ºÊıµÄ±ÜÃâ
+### è´Ÿæ•°çš„é¿å…
 
-¸ºÊıÖ»»áÔÚ¼õ·¨ÔËËãÊ±²úÉú£¬Ã¿µ±Óöµ½¼õ·¨ÔËËãÊ±£¬Ö»ĞèÒª¼ì²éÎ»ÓÚ×ó²àµÄ±í´ïÊ½»ò·ÖÊı´óÓÚµÈÓÚÎ»ÓÚÓÒ²àµÄ¼´¿É¡£·ñÔò£¬½»»»¼õ·¨ÔËËãµÄ×óÓÒ²Ù×÷Êı¡£
+è´Ÿæ•°åªä¼šåœ¨å‡æ³•è¿ç®—æ—¶äº§ç”Ÿï¼Œæ¯å½“é‡åˆ°å‡æ³•è¿ç®—æ—¶ï¼Œåªéœ€è¦æ£€æŸ¥ä½äºå·¦ä¾§çš„è¡¨è¾¾å¼æˆ–åˆ†æ•°å¤§äºç­‰äºä½äºå³ä¾§çš„å³å¯ã€‚å¦åˆ™ï¼Œäº¤æ¢å‡æ³•è¿ç®—çš„å·¦å³æ“ä½œæ•°ã€‚
 
-### ³ı·¨¼Ù·ÖÊıµÄ±ÜÃâ
+### é™¤æ³•å‡åˆ†æ•°çš„é¿å…
 
-³ı·¨¼Ù·ÖÊıÖ»»áÔÚÎ»ÓÚÓÒ²àµÄ²Ù×÷Êı´óÓÚÎ»ÓÚ×ó²àµÄ²Ù×÷ÊıÊ±²úÉú£¬Ö»ĞèÒª¼ì²éÎ»ÓÚ×ó²àµÄ±í´ïÊ½Ğ¡ÓÚ»òµÈÓÚÓÒ²àµÄ¼´¿É¡£·ñÔò£¬½»»»³ı·¨ÔËËãµÄ×óÓÒ²Ù×÷Êı¡£
+é™¤æ³•å‡åˆ†æ•°åªä¼šåœ¨ä½äºå³ä¾§çš„æ“ä½œæ•°å¤§äºä½äºå·¦ä¾§çš„æ“ä½œæ•°æ—¶äº§ç”Ÿï¼Œåªéœ€è¦æ£€æŸ¥ä½äºå·¦ä¾§çš„è¡¨è¾¾å¼å°äºæˆ–ç­‰äºå³ä¾§çš„å³å¯ã€‚å¦åˆ™ï¼Œäº¤æ¢é™¤æ³•è¿ç®—çš„å·¦å³æ“ä½œæ•°ã€‚
 
-### ²Ù×÷ÊıµÄ±íÊ¾
+### æ“ä½œæ•°çš„è¡¨ç¤º
 
-ÎŞÂÛÊÇÕæ¼Ù·ÖÊı»¹ÊÇÕûÊı£¬¶¼¿ÉÒÔµ±³É·ÖÊıÀ´½øĞĞ¼ÆËã¡£ÔÚÉú³É²Ù×÷ÊıµÄÊ±ºò£¬ÎÒÃÇ¾Í»áÊ¹ÓÃÒ»¸ö·ÖÊıÉú³ÉÆ÷£¬°´ÕÕÌØ¶¨¹æÔò£¬Éú³É·ÖÊı¡£¶ø±í´ïÊ½µÄ²Ù×÷Ò²ÊÇ·ÖÊıºÍ·ÖÊıÖ®¼äµÄ²Ù×÷¡£Ö±µ½×îºóÉú³É±í´ïÊ½Ê±£¬²Å»á½«·ÖÊı½øĞĞ×ª»¯Êä³ö¡£
+æ— è®ºæ˜¯çœŸå‡åˆ†æ•°è¿˜æ˜¯æ•´æ•°ï¼Œéƒ½å¯ä»¥å½“æˆåˆ†æ•°æ¥è¿›è¡Œè®¡ç®—ã€‚åœ¨ç”Ÿæˆæ“ä½œæ•°çš„æ—¶å€™ï¼Œæˆ‘ä»¬å°±ä¼šä½¿ç”¨ä¸€ä¸ªåˆ†æ•°ç”Ÿæˆå™¨ï¼ŒæŒ‰ç…§ç‰¹å®šè§„åˆ™ï¼Œç”Ÿæˆåˆ†æ•°ã€‚è€Œè¡¨è¾¾å¼çš„æ“ä½œä¹Ÿæ˜¯åˆ†æ•°å’Œåˆ†æ•°ä¹‹é—´çš„æ“ä½œã€‚ç›´åˆ°æœ€åç”Ÿæˆè¡¨è¾¾å¼æ—¶ï¼Œæ‰ä¼šå°†åˆ†æ•°è¿›è¡Œè½¬åŒ–è¾“å‡ºã€‚
 
-### ÅĞ¶ÏÊÇ·ñÖØ¸´
+### åˆ¤æ–­æ˜¯å¦é‡å¤
 
-ÒòÎª²éÖØÊ½×ÓÄÜÈ·±£ËùÓĞÍ¬ÒåµÄÔËËãÊ½¶¼ÄÜÊä³öÎªÍ¬Ò»¸öËãÊ½£¬ËùÒÔ¿ÉÒÔÖ±½Ó½«²éÖØÊ½·Å½ø HashSet ÖĞ£¬Ò»µ©²éÑ¯µ½Ò»¸ö²éÖØÊ½ÒÑ¾­´æÔÚÓÚ HashSet ÖĞ£¬ÔòÖ¤Ã÷Õâ¸öÊ½×ÓÒÑ¾­ÖØ¸´¡£·ñÔòÔòÃ»ÓĞÖØ¸´¡£
+å› ä¸ºæŸ¥é‡å¼å­èƒ½ç¡®ä¿æ‰€æœ‰åŒä¹‰çš„è¿ç®—å¼éƒ½èƒ½è¾“å‡ºä¸ºåŒä¸€ä¸ªç®—å¼ï¼Œæ‰€ä»¥å¯ä»¥ç›´æ¥å°†æŸ¥é‡å¼æ”¾è¿› HashSet ä¸­ï¼Œä¸€æ—¦æŸ¥è¯¢åˆ°ä¸€ä¸ªæŸ¥é‡å¼å·²ç»å­˜åœ¨äº HashSet ä¸­ï¼Œåˆ™è¯æ˜è¿™ä¸ªå¼å­å·²ç»é‡å¤ã€‚å¦åˆ™åˆ™æ²¡æœ‰é‡å¤ã€‚
 
-## ´úÂë
+## ä»£ç 
 
-### ·ÖÊıÀà Fraction
+### åˆ†æ•°ç±» Fraction
 
-ÊµÏÖÁË·ÖÊıµÄ´æ´¢¡¢¼Ó¼õ³Ë³ı»ù±¾ÔËËã¡¢»¯¼ò¡¢ºÍ×Ö·û´®µÄÏà»¥×ª»¯ÒÔ¼°×Ö·û´®ËãÊõÊ½µÄ¼ÆËãµÈ¹¦ÄÜ
+å®ç°äº†åˆ†æ•°çš„å­˜å‚¨ã€åŠ å‡ä¹˜é™¤åŸºæœ¬è¿ç®—ã€åŒ–ç®€ã€å’Œå­—ç¬¦ä¸²çš„ç›¸äº’è½¬åŒ–ä»¥åŠå­—ç¬¦ä¸²ç®—æœ¯å¼çš„è®¡ç®—ç­‰åŠŸèƒ½
 
 ```java
 import java.util.Stack;
 
 /**
- * ·ÖÊıÀà
+ * åˆ†æ•°ç±»
  */
 public class Fraction {
     /**
-     * ´ø·ÖÊıµÄ·Ö×Ó
+     * å¸¦åˆ†æ•°çš„åˆ†å­
      */
     private int numerator = 0;
     /**
-     * ´ø·ÖÊıµÄ·ÖÄ¸
+     * å¸¦åˆ†æ•°çš„åˆ†æ¯
      */
     private int denominator = 1;
     /**
-     * ·ûºÅÎ»£¨1±íÊ¾ÕûÊı£¬-1±íÊ¾¸ºÊı£©
+     * ç¬¦å·ä½ï¼ˆ1è¡¨ç¤ºæ•´æ•°ï¼Œ-1è¡¨ç¤ºè´Ÿæ•°ï¼‰
      */
     private int symbol = 1;
 
@@ -87,7 +87,7 @@ public class Fraction {
     }
 
     public Fraction(int numerator, int denominator) {
-        if (denominator == 0) throw new ArithmeticException("·ÖÄ¸²»ÄÜÎª 0 ");
+        if (denominator == 0) throw new ArithmeticException("åˆ†æ¯ä¸èƒ½ä¸º 0 ");
         this.symbol = numerator * denominator < 0 ? -1 : 1;
         this.numerator = Math.abs(numerator);
         this.denominator = Math.abs(denominator);
@@ -95,11 +95,11 @@ public class Fraction {
     }
 
     /**
-     * ÇóÁ½¸öÊıµÄ×î´ó¹«ÒòÊı
+     * æ±‚ä¸¤ä¸ªæ•°çš„æœ€å¤§å…¬å› æ•°
      *
-     * @param numberA ÊıA
-     * @param numberB ÊıB
-     * @return ·µ»Ø×î´ó¹«ÒòÊı
+     * @param numberA æ•°A
+     * @param numberB æ•°B
+     * @return è¿”å›æœ€å¤§å…¬å› æ•°
      */
     private static int gcd(int numberA, int numberB) {
         if (numberA % numberB == 0) {
@@ -110,18 +110,18 @@ public class Fraction {
     }
 
     /**
-     * ÇóÁ½¸öÊıµÄ×îĞ¡¹«±¶Êı
+     * æ±‚ä¸¤ä¸ªæ•°çš„æœ€å°å…¬å€æ•°
      *
-     * @param numberA ÊıA
-     * @param numberB ÊıB
-     * @return ·µ»Ø×îĞ¡¹«±¶Êı
+     * @param numberA æ•°A
+     * @param numberB æ•°B
+     * @return è¿”å›æœ€å°å…¬å€æ•°
      */
     private static int lcm(int numberA, int numberB) {
         return numberA * numberB / gcd(numberA, numberB);
     }
 
     /**
-     * ½«·ÖÊı½øĞĞ»¯¼ò
+     * å°†åˆ†æ•°è¿›è¡ŒåŒ–ç®€
      */
     private void simplify() {
         int div = gcd(numerator, denominator);
@@ -132,14 +132,14 @@ public class Fraction {
     }
 
     /**
-     * ·ÖÊı¼Ó·¨
+     * åˆ†æ•°åŠ æ³•
      *
-     * @param fraction ¼ÓÊı
-     * @return ·µ»Ø·ÖÊıÀàĞÍ½á¹û
-     * ½á¹ûÎªÕæ·ÖÊı
+     * @param fraction åŠ æ•°
+     * @return è¿”å›åˆ†æ•°ç±»å‹ç»“æœ
+     * ç»“æœä¸ºçœŸåˆ†æ•°
      */
     public Fraction add(Fraction fraction) {
-        // ÏÈ»ñÈ¡Á½¸ö·ÖÊı·ÖÄ¸µÄ×îĞ¡¹«±¶Êı
+        // å…ˆè·å–ä¸¤ä¸ªåˆ†æ•°åˆ†æ¯çš„æœ€å°å…¬å€æ•°
         int mul = lcm(this.denominator, fraction.denominator);
         int numerator = this.symbol * this.numerator * mul / this.denominator
                 + fraction.symbol * fraction.numerator * mul / fraction.denominator;
@@ -147,14 +147,14 @@ public class Fraction {
     }
 
     /**
-     * ·ÖÊı¼õ·¨
+     * åˆ†æ•°å‡æ³•
      *
-     * @param fraction ¼õÊı
-     * @return ·µ»Ø·ÖÊıÀàĞÍ½á¹û
-     * ½á¹ûÎªÕæ·ÖÊı
+     * @param fraction å‡æ•°
+     * @return è¿”å›åˆ†æ•°ç±»å‹ç»“æœ
+     * ç»“æœä¸ºçœŸåˆ†æ•°
      */
     public Fraction subtract(Fraction fraction) {
-        //ÏÈ»ñÈ¡Á½¸ö·ÖÊı·ÖÄ¸µÄ×îĞ¡¹«±¶Êı
+        //å…ˆè·å–ä¸¤ä¸ªåˆ†æ•°åˆ†æ¯çš„æœ€å°å…¬å€æ•°
         int mul = lcm(this.denominator, fraction.denominator);
         int numerator = this.symbol * this.numerator * mul / this.denominator
                 - fraction.symbol * fraction.numerator * mul / fraction.denominator;
@@ -162,36 +162,36 @@ public class Fraction {
     }
 
     /**
-     * ·ÖÊı³Ë·¨
+     * åˆ†æ•°ä¹˜æ³•
      *
-     * @param fraction ³ËÊı
-     * @return ·µ»Ø·ÖÊıÀàĞÍ½á¹û
-     * ÕâÀïµÄ½á¹û¿ÉÄÜ²»ÎªÕæ·ÖÊı
+     * @param fraction ä¹˜æ•°
+     * @return è¿”å›åˆ†æ•°ç±»å‹ç»“æœ
+     * è¿™é‡Œçš„ç»“æœå¯èƒ½ä¸ä¸ºçœŸåˆ†æ•°
      */
     public Fraction multiply(Fraction fraction) {
-        //ÕâÀïÖ»ĞèÒªËæ±ãÒ»¸öÊı±íÊ¾·ûºÅ
+        //è¿™é‡Œåªéœ€è¦éšä¾¿ä¸€ä¸ªæ•°è¡¨ç¤ºç¬¦å·
         return new Fraction(this.numerator * fraction.numerator,
                 this.symbol * fraction.symbol * this.denominator * fraction.denominator);
     }
 
     /**
-     * ·ÖÊı³ı·¨
+     * åˆ†æ•°é™¤æ³•
      *
-     * @param fraction ³ıÊı
-     * @return ·µ»Ø·ÖÊıÀàĞÍ½á¹û
-     * ÕâÀïµÄ½á¹û¿ÉÄÜ²»ÎªÕæ·ÖÊı
+     * @param fraction é™¤æ•°
+     * @return è¿”å›åˆ†æ•°ç±»å‹ç»“æœ
+     * è¿™é‡Œçš„ç»“æœå¯èƒ½ä¸ä¸ºçœŸåˆ†æ•°
      */
     public Fraction divide(Fraction fraction) {
         if (fraction.numerator == 0)
-            throw new ArithmeticException("³ıÊı²»ÄÜÎª 0 ");
+            throw new ArithmeticException("é™¤æ•°ä¸èƒ½ä¸º 0 ");
         Fraction f = new Fraction(fraction.denominator, fraction.numerator);
         return this.multiply(f);
     }
 
     /**
-     * ÅĞ¶Ï¸Ã·ÖÊıÊÇ·ñ±ÈÊäÈë·ÖÊı´ó
-     * @param fraction ÊäÈë·ÖÊı
-     * @return true Îª´ó, false ÎªĞ¡ÓÚµÈÓÚ
+     * åˆ¤æ–­è¯¥åˆ†æ•°æ˜¯å¦æ¯”è¾“å…¥åˆ†æ•°å¤§
+     * @param fraction è¾“å…¥åˆ†æ•°
+     * @return true ä¸ºå¤§, false ä¸ºå°äºç­‰äº
      */
     public boolean isGreaterThan(Fraction fraction) {
         Fraction result = subtract(fraction);
@@ -203,13 +203,13 @@ public class Fraction {
     @Override
     public String toString() {
         StringBuilder fraction = new StringBuilder();
-        //ÏÈ´¦Àí·ûºÅÎÊÌâ
+        //å…ˆå¤„ç†ç¬¦å·é—®é¢˜
         if (symbol == -1)
             fraction.append("-");
         if (numerator == 0) {
             fraction.append("0");
         } else if (numerator > denominator) {
-            //Èç¹û·Ö×Ó±È·ÖÄ¸´ó£¬»¯ÎªÕæ·ÖÊı
+            //å¦‚æœåˆ†å­æ¯”åˆ†æ¯å¤§ï¼ŒåŒ–ä¸ºçœŸåˆ†æ•°
             fraction.append(numerator / denominator);
             if (numerator % denominator != 0) {
                 fraction.append("'");
@@ -228,28 +228,28 @@ public class Fraction {
     }
 
     /**
-     * ½«String×ª»¯ÎªFraction
+     * å°†Stringè½¬åŒ–ä¸ºFraction
      *
      * @param s String
-     * @return Fraction·ÖÊı
+     * @return Fractionåˆ†æ•°
      */
     public static Fraction string2Fraction(String s) {
         int numerator = 0;
         int denominator = 1;
-        //ÕâÀïÈ¡'Ö®ºóµÄ×Ö·û´®½øĞĞ²Ù×÷
+        //è¿™é‡Œå–'ä¹‹åçš„å­—ç¬¦ä¸²è¿›è¡Œæ“ä½œ
         String[] strings = s.substring(s.indexOf("'") + 1).split("/");
         if (strings.length <= 0) throw new NumberFormatException();
         numerator = Integer.parseInt(strings[0]);
         if (strings.length >= 2) denominator = Integer.parseInt(strings[1]);
-        //²Ù×÷'Ö®Ç°µÄ
+        //æ“ä½œ'ä¹‹å‰çš„
         if (s.contains("'")) numerator = Integer.parseInt(s.substring(0, s.indexOf("'"))) * denominator + numerator;
         return new Fraction(numerator, denominator);
     }
 
     /**
-     * ¼ÆËã×Ö·û´®ËÄÔòÔËËãÊ½µÄº¯Êı
-     * @param sIn String ±íÊ¾µÄËÄÔòÔËËãÊ½
-     * @return ¸ÃËÄÔòÔËËãÊ½µÄ´ğ°¸
+     * è®¡ç®—å­—ç¬¦ä¸²å››åˆ™è¿ç®—å¼çš„å‡½æ•°
+     * @param sIn String è¡¨ç¤ºçš„å››åˆ™è¿ç®—å¼
+     * @return è¯¥å››åˆ™è¿ç®—å¼çš„ç­”æ¡ˆ
      */
     public static Fraction calculateStringExp(String sIn) {
         Stack<Fraction> fractionStack = new Stack<>();
@@ -278,10 +278,10 @@ public class Fraction {
                         case '-':
                             fractionStack.push(numberA.subtract(numberB));
                             break;
-                        case '¡Á':
+                        case 'Ã—':
                             fractionStack.push(numberA.multiply(numberB));
                             break;
-                        case '¡Â':
+                        case 'Ã·':
                             fractionStack.push(numberA.divide(numberB));
                             break;
                         default:
@@ -301,22 +301,22 @@ public class Fraction {
     }
 
     /**
-     * ÅĞ¶¨·ûºÅÓÅÏÈ¼¶µÄÀà
-     * @param symbol ·ûºÅ
-     * @param symbolStack ·ûºÅÕ»
+     * åˆ¤å®šç¬¦å·ä¼˜å…ˆçº§çš„ç±»
+     * @param symbol ç¬¦å·
+     * @param symbolStack ç¬¦å·æ ˆ
      * @return
      */
     private static boolean comparePriority(char symbol, Stack<Character> symbolStack) {
         if (symbolStack.empty()) return true;
-        // ·ûºÅÓÅÏÈ¼¶ËµÃ÷£¨´Ó¸ßµ½µÍ£©: ( ´óÓÚ ¡Á ¡Â ´óÓÚ + - ´óÓÚ )
+        // ç¬¦å·ä¼˜å…ˆçº§è¯´æ˜ï¼ˆä»é«˜åˆ°ä½ï¼‰: ( å¤§äº Ã— Ã· å¤§äº + - å¤§äº )
         char top = symbolStack.peek();
         if (top == '(') return true;
         switch (symbol) {
             case '(': return true;
-            case '¡Á':
+            case 'Ã—':
                 if (top == '+' || top == '-') return true;
                 else return false;
-            case '¡Â':
+            case 'Ã·':
                 if (top == '+' || top == '-') return true;
                 else return false;
             case '+': return false;
@@ -329,7 +329,7 @@ public class Fraction {
     }
 
     /**
-     * ÅĞ¶ÏÕâ¸ö·ÖÊıÖµÊÇ·ñÎª 0
+     * åˆ¤æ–­è¿™ä¸ªåˆ†æ•°å€¼æ˜¯å¦ä¸º 0
      * @return
      */
     public boolean isZero() {
@@ -339,55 +339,55 @@ public class Fraction {
 }
 ```
 
-### ExerciseGenerator ËãÊõÊ½Éú³ÉÆ÷
+### ExerciseGenerator ç®—æœ¯å¼ç”Ÿæˆå™¨
 
-¶¨ÒåÁË¸÷Àà¸ºÔğËæ»úÉú³ÉµÄº¯Êı
-- Ëæ»úÉú³É·ÖÊı
-- Ëæ»úÉú³É·ûºÅ
-- Ëæ»úÉú³Éµ¥Ëã×Ó±í´ïÊ½
-- Ëæ»úÉú³É¶şËã×Ó±í´ïÊ½
-- Ëæ»úÉú³ÉÈıËã×Ó A ĞÍ±í´ïÊ½
-- Ëæ»úÉú³ÉÈıËã×Ó B ĞÍ±í´ïÊ½
-- ²éÖØÊ½µÄ²éÖØ
-- ×îÖÕ±í´ïÊ½ºÍ´ğ°¸µÄÊä³ö
+å®šä¹‰äº†å„ç±»è´Ÿè´£éšæœºç”Ÿæˆçš„å‡½æ•°
+- éšæœºç”Ÿæˆåˆ†æ•°
+- éšæœºç”Ÿæˆç¬¦å·
+- éšæœºç”Ÿæˆå•ç®—å­è¡¨è¾¾å¼
+- éšæœºç”ŸæˆäºŒç®—å­è¡¨è¾¾å¼
+- éšæœºç”Ÿæˆä¸‰ç®—å­ A å‹è¡¨è¾¾å¼
+- éšæœºç”Ÿæˆä¸‰ç®—å­ B å‹è¡¨è¾¾å¼
+- æŸ¥é‡å¼çš„æŸ¥é‡
+- æœ€ç»ˆè¡¨è¾¾å¼å’Œç­”æ¡ˆçš„è¾“å‡º
 
 ```java
 import java.util.*;
 
-// ËãÊıÌâÄ¿Éú³É
+// ç®—æ•°é¢˜ç›®ç”Ÿæˆ
 public class ExerciseGenerator {
     /**
-     * ÊıÖµ·¶Î§
+     * æ•°å€¼èŒƒå›´
      */
     private int range;
     /**
-     * ÌâÄ¿ÊıÁ¿
+     * é¢˜ç›®æ•°é‡
      */
     private int number;
     /**
-     * Ëæ»úÊıÖÖ×Ó£¬ÓÃÓÚÉú³É¸÷ÖÖËæ»úÑ¡Ïî
+     * éšæœºæ•°ç§å­ï¼Œç”¨äºç”Ÿæˆå„ç§éšæœºé€‰é¡¹
      */
     private Random random = new Random(System.currentTimeMillis());
     /**
-     * ÑéÖ¤ÖØ¸´Ê¹ÓÃµÄ¹şÏ£¼¯ºÏ
+     * éªŒè¯é‡å¤ä½¿ç”¨çš„å“ˆå¸Œé›†åˆ
      */
     private Set<String> duplicateCheckSet = new HashSet<>();
     /**
-     * ´æ´¢´ğ°¸Ê¹ÓÃµÄ¹şÏ£Ó³Éä±í <ËãÊ½, ´ğ°¸>
+     * å­˜å‚¨ç­”æ¡ˆä½¿ç”¨çš„å“ˆå¸Œæ˜ å°„è¡¨ <ç®—å¼, ç­”æ¡ˆ>
      */
     private HashMap<String, String> resultMap = new HashMap<>();
 
     public ExerciseGenerator(){}
     public ExerciseGenerator(int range, int number){
-        if(range < 2) throw new IllegalArgumentException("ÊıÖµµÄ·¶Î§²»ÄÜĞ¡ÓÚ 2 ");
-        if(number < 1) throw new IllegalArgumentException("ÌâÄ¿µÄÊıÁ¿²»ÄÜĞ¡ÓÚ 1 ");
+        if(range < 2) throw new IllegalArgumentException("æ•°å€¼çš„èŒƒå›´ä¸èƒ½å°äº 2 ");
+        if(number < 1) throw new IllegalArgumentException("é¢˜ç›®çš„æ•°é‡ä¸èƒ½å°äº 1 ");
         this.range = range;
         this.number = number;
     }
 
     /**
-     * Éú³ÉËãÊõÊ½ºÍ´ğ°¸µÄÀà
-     * @return µ±¶ÔÓ¦ range ¿ÉÒÔÉú³É number ¸öËãÊõÊ½Ê±£¬·µ»Ø±í´ïÊ½ºÍ´ğ°¸£»·ñÔò·µ»Ø null
+     * ç”Ÿæˆç®—æœ¯å¼å’Œç­”æ¡ˆçš„ç±»
+     * @return å½“å¯¹åº” range å¯ä»¥ç”Ÿæˆ number ä¸ªç®—æœ¯å¼æ—¶ï¼Œè¿”å›è¡¨è¾¾å¼å’Œç­”æ¡ˆï¼›å¦åˆ™è¿”å› null
      */
     public HashMap<String,String> generateExp() {
         if(number > 1000*(range-1)*(range-1)) return null;
@@ -413,23 +413,23 @@ public class ExerciseGenerator {
     }
 
     /**
-     * ÊıÖµÉú³ÉÆ÷
+     * æ•°å€¼ç”Ÿæˆå™¨
      *
-     * @return ·ÖÊı¶ÔÏó
+     * @return åˆ†æ•°å¯¹è±¡
      */
     public Fraction fractionGenerator() {
-        if(range < 1) throw new IllegalArgumentException("ÊıÖµµÄ·¶Î§²»ÄÜĞ¡ÓÚ 1 ");
-        // ·ÖÄ¸·¶Î§Îª 1 - range, ²»°üº¬ range
+        if(range < 1) throw new IllegalArgumentException("æ•°å€¼çš„èŒƒå›´ä¸èƒ½å°äº 1 ");
+        // åˆ†æ¯èŒƒå›´ä¸º 1 - range, ä¸åŒ…å« range
         int denominator = random.nextInt(range - 1) + 1;
         int numerator = 0;
-        // ·Ö×Ó·¶Î§Îª 0 - range ^ 2, ²»°üº¬ range ^ 2
+        // åˆ†å­èŒƒå›´ä¸º 0 - range ^ 2, ä¸åŒ…å« range ^ 2
         numerator = random.nextInt(denominator * denominator + 1);
         return new Fraction(numerator, denominator);
     }
 
     /**
-     * Ëã×ÓÉú³ÉÆ÷
-     * @return + - ¡Á ¡Â ÖĞµÄÈÎÒ»Ò»¸öÔËËã·û
+     * ç®—å­ç”Ÿæˆå™¨
+     * @return + - Ã— Ã· ä¸­çš„ä»»ä¸€ä¸€ä¸ªè¿ç®—ç¬¦
      */
     public char opGenerator() {
         char result;
@@ -441,10 +441,10 @@ public class ExerciseGenerator {
                 result = '-';
                 break;
             case 2:
-                result = '¡Á';
+                result = 'Ã—';
                 break;
             case 3:
-                result = '¡Â';
+                result = 'Ã·';
                 break;
             default:
                 result = '+';
@@ -453,8 +453,8 @@ public class ExerciseGenerator {
     }
 
     /**
-     * µ¥Ëã×ÓËãÊõÊ½Éú³ÉÆ÷
-     * @return ×Ö·û´®Êı×é£¬[0]·ÅÖÃ»¯¼òµÄ²éÖØ×Ö·û´®£¬[1]·ÅÖÃ»ìÏıºóµÄÊµ¼Ê×Ö·û´®£¬[2]·ÅÖÃËãÊõÊ½´ğ°¸£¬[3]·ÅÖÃ±¾´ÎËãÊõÊ½Éú³ÉµÄÔËËã·û
+     * å•ç®—å­ç®—æœ¯å¼ç”Ÿæˆå™¨
+     * @return å­—ç¬¦ä¸²æ•°ç»„ï¼Œ[0]æ”¾ç½®åŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²ï¼Œ[1]æ”¾ç½®æ··æ·†åçš„å®é™…å­—ç¬¦ä¸²ï¼Œ[2]æ”¾ç½®ç®—æœ¯å¼ç­”æ¡ˆï¼Œ[3]æ”¾ç½®æœ¬æ¬¡ç®—æœ¯å¼ç”Ÿæˆçš„è¿ç®—ç¬¦
      */
     public String[] oneOpGenerator() {
         String[] result = new String[4];
@@ -463,41 +463,41 @@ public class ExerciseGenerator {
         switch(opGenerator()) {
             case '-':
                 result[3] = "-";
-                // ½«´óµÄÊı·ÅÔÚÇ°Ãæ
+                // å°†å¤§çš„æ•°æ”¾åœ¨å‰é¢
                 if(!numberA.isGreaterThan(numberB)) {
                     Fraction temp = numberA;
                     numberA = numberB;
                     numberB = temp;
                 }
-                // ¶ÔÓÚ¼õ·¨µÄÇé¿ö£¬»¯¼òµÄ²éÖØ×Ö·û´®ºÍ»ìÏı×Ö·û´®ÊÇÒ»ÑùµÄ
+                // å¯¹äºå‡æ³•çš„æƒ…å†µï¼ŒåŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²å’Œæ··æ·†å­—ç¬¦ä¸²æ˜¯ä¸€æ ·çš„
                 result[0] = numberA.toString() + " - " + numberB.toString();
                 result[1] = numberA.toString() + " - " + numberB.toString();
                 result[2] = numberA.subtract(numberB).toString();
                 break;
-            case '¡Â':
-                result[3] = "¡Â";
-                // ±£Ö¤³ı·¨·ÖÄ¸²»Îª 0
+            case 'Ã·':
+                result[3] = "Ã·";
+                // ä¿è¯é™¤æ³•åˆ†æ¯ä¸ä¸º 0
                 while(numberB.isZero() || numberA.isGreaterThan(numberB))
                     numberB = fractionGenerator();
-                // ¶ÔÓÚ¼õ·¨µÄÇé¿ö£¬»¯¼òµÄ²éÖØ×Ö·û´®ºÍ»ìÏı×Ö·û´®ÊÇÒ»ÑùµÄ
-                result[0] = numberA.toString() + " ¡Â " + numberB.toString();
-                result[1] = numberA.toString() + " ¡Â " + numberB.toString();
+                // å¯¹äºå‡æ³•çš„æƒ…å†µï¼ŒåŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²å’Œæ··æ·†å­—ç¬¦ä¸²æ˜¯ä¸€æ ·çš„
+                result[0] = numberA.toString() + " Ã· " + numberB.toString();
+                result[1] = numberA.toString() + " Ã· " + numberB.toString();
                 result[2] = numberA.divide(numberB).toString();
                 break;
             case '+':
                 result[3] = "+";
-                // ¶ÔÓÚ¼Ó·¨µÄÇé¿ö£¬²éÖØ×Ö·û´®Òª°ÑÊı´ÓĞ¡µ½´óÅÅ£¬¶ø»ìÏı×Ö·û´®Ôò²»ĞèÒª
+                // å¯¹äºåŠ æ³•çš„æƒ…å†µï¼ŒæŸ¥é‡å­—ç¬¦ä¸²è¦æŠŠæ•°ä»å°åˆ°å¤§æ’ï¼Œè€Œæ··æ·†å­—ç¬¦ä¸²åˆ™ä¸éœ€è¦
                 if(numberA.isGreaterThan(numberB)) result[0] = numberB.toString() + " + " + numberA.toString();
                 else result[0] = numberA.toString() + " + " + numberB.toString();
                 result[1] = numberA.toString() + " + " + numberB.toString();
                 result[2] = numberA.add(numberB).toString();
                 break;
-            case '¡Á':
-                result[3] = "¡Á";
-                // ¶ÔÓÚ³Ë·¨µÄÇé¿ö£¬²éÖØ×Ö·û´®Òª°ÑÊı´ÓĞ¡µ½´óÅÅ£¬¶ø»ìÏı×Ö·û´®Ôò²»ĞèÒª
-                if(numberA.isGreaterThan(numberB)) result[0] = numberB.toString() + " ¡Á " + numberA.toString();
-                else result[0] = numberA.toString() + " ¡Á " + numberB.toString();
-                result[1] = numberA.toString() + " ¡Á " + numberB.toString();
+            case 'Ã—':
+                result[3] = "Ã—";
+                // å¯¹äºä¹˜æ³•çš„æƒ…å†µï¼ŒæŸ¥é‡å­—ç¬¦ä¸²è¦æŠŠæ•°ä»å°åˆ°å¤§æ’ï¼Œè€Œæ··æ·†å­—ç¬¦ä¸²åˆ™ä¸éœ€è¦
+                if(numberA.isGreaterThan(numberB)) result[0] = numberB.toString() + " Ã— " + numberA.toString();
+                else result[0] = numberA.toString() + " Ã— " + numberB.toString();
+                result[1] = numberA.toString() + " Ã— " + numberB.toString();
                 result[2] = numberA.multiply(numberB).toString();
                 break;
         }
@@ -505,11 +505,11 @@ public class ExerciseGenerator {
     }
 
     /**
-     * ¶şËã×ÓËãÊõÊ½Éú³ÉÆ÷
-     * @return ×Ö·û´®Êı×é£¬[0]·ÅÖÃ»¯¼òµÄ²éÖØ×Ö·û´®£¬[1]·ÅÖÃ»ìÏıºóµÄÊµ¼Ê×Ö·û´®£¬[2]·ÅÖÃËãÊõÊ½´ğ°¸£¬[3]·ÅÖÃ±¾´ÎËãÊõÊ½Éú³ÉµÄÔËËã·û
+     * äºŒç®—å­ç®—æœ¯å¼ç”Ÿæˆå™¨
+     * @return å­—ç¬¦ä¸²æ•°ç»„ï¼Œ[0]æ”¾ç½®åŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²ï¼Œ[1]æ”¾ç½®æ··æ·†åçš„å®é™…å­—ç¬¦ä¸²ï¼Œ[2]æ”¾ç½®ç®—æœ¯å¼ç­”æ¡ˆï¼Œ[3]æ”¾ç½®æœ¬æ¬¡ç®—æœ¯å¼ç”Ÿæˆçš„è¿ç®—ç¬¦
      */
     public String[] twoOpGenerator() {
-        // Éú³ÉÒ»¸öµ¥Ëã×ÓËãÊõÊ½
+        // ç”Ÿæˆä¸€ä¸ªå•ç®—å­ç®—æœ¯å¼
         String[] result = oneOpGenerator();
         Fraction numberA = Fraction.string2Fraction(result[2]);
         Fraction numberB = fractionGenerator();
@@ -517,28 +517,28 @@ public class ExerciseGenerator {
             case '+':
                 result[0] = result[0] + " + " + numberB.toString();
                 result[2] = numberA.add(numberB).toString();
-                // Ëæ»ú¾ö¶¨ÊÇ·ñÈÅÂÒ´ÎĞò
+                // éšæœºå†³å®šæ˜¯å¦æ‰°ä¹±æ¬¡åº
                 if(random.nextInt(2) == 0) {
-                    // ²»ÈÅÂÒ´ÎĞò
+                    // ä¸æ‰°ä¹±æ¬¡åº
                     result[1] = result[1] + " + " + numberB.toString();
                 }
                 else {
-                    // ÈÅÂÒ´ÎĞòÒª¼ì²é·ûºÅÓÅÏÈ¼¶£¬Èç¹ûÓÅÏÈ¼¶´ó£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[1] = numberB.toString() + " + " + result[1];
+                    // æ‰°ä¹±æ¬¡åºè¦æ£€æŸ¥ç¬¦å·ä¼˜å…ˆçº§ï¼Œå¦‚æœä¼˜å…ˆçº§å¤§ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[1] = numberB.toString() + " + " + result[1];
                     else result[1] = numberB.toString() + " + (" + result[1] + ")";
                 }
                 result[3] = "+";
                 break;
             case '-':
-                // Èç¹ûÇ°ÃæµÄÊı±ÈºóÃæµÄÊıĞ¡£¬ÔòĞèÒªµ÷»»Ë³Ğò
+                // å¦‚æœå‰é¢çš„æ•°æ¯”åé¢çš„æ•°å°ï¼Œåˆ™éœ€è¦è°ƒæ¢é¡ºåº
                 if(!numberA.isGreaterThan(numberB)) {
-                    // Èç¹ûÔ­±¾±í´ïÊ½·ûºÅÓÅÏÈ¼¶¸ß£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")){
+                    // å¦‚æœåŸæœ¬è¡¨è¾¾å¼ç¬¦å·ä¼˜å…ˆçº§é«˜ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")){
                         result[0] = numberB.toString() + " - " + result[0];
                         result[1] = numberB.toString() + " - " + result[1];
                         result[2] = numberB.subtract(numberA).toString();
                     }
-                    // Èç¹ûÔ­±¾±í´ïÊ½µÄÓÅÏÈ¼¶ºÍµ±Ç°µÄÏàÍ¬£¬ÔòĞèÒª¼ÓÀ¨ºÅ
+                    // å¦‚æœåŸæœ¬è¡¨è¾¾å¼çš„ä¼˜å…ˆçº§å’Œå½“å‰çš„ç›¸åŒï¼Œåˆ™éœ€è¦åŠ æ‹¬å·
                     else {
                         result[0] = numberB.toString() + " - (" + result[0] + ")";
                         result[1] = numberB.toString() + " - (" + result[1] + ")";
@@ -551,57 +551,57 @@ public class ExerciseGenerator {
                 }
                 result[3] = "-";
                 break;
-            case '¡Á':
-                // Èç¹ûÔ­ËãÊõÊ½ÓÅÏÈ¼¶ºÍ ¡Á ÏàµÈ£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[0] = result[0] + " ¡Á " + numberB.toString();
-                else result[0] = "(" + result[0] + ") ¡Á " + numberB.toString();
+            case 'Ã—':
+                // å¦‚æœåŸç®—æœ¯å¼ä¼˜å…ˆçº§å’Œ Ã— ç›¸ç­‰ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[0] = result[0] + " Ã— " + numberB.toString();
+                else result[0] = "(" + result[0] + ") Ã— " + numberB.toString();
                 result[2] = numberA.multiply(numberB).toString();
-                // Ëæ»ú¾ö¶¨ÊÇ·ñÈÅÂÒ´ÎĞò
+                // éšæœºå†³å®šæ˜¯å¦æ‰°ä¹±æ¬¡åº
                 if(random.nextInt(2) == 0) {
-                    // Èç¹ûÓöµ½¼Ó¼õÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[1] = result[1] + " ¡Á " + numberB.toString();
-                    else result[1] = "(" + result[1] + ") ¡Á " + numberB.toString();
+                    // å¦‚æœé‡åˆ°åŠ å‡è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[1] = result[1] + " Ã— " + numberB.toString();
+                    else result[1] = "(" + result[1] + ") Ã— " + numberB.toString();
                 }
                 else {
-                    // ÒòÎª ¡Á µÄÓÅÏÈ¼¶´ó£¬ËùÒÔÈÅÂÒ´ÎĞòÔÚÈÎºÎÇé¿öÏÂ¶¼Òª¼ÓÀ¨ºÅ
-                    result[1] = numberB.toString() + " ¡Á (" + result[1] + ")";
+                    // å› ä¸º Ã— çš„ä¼˜å…ˆçº§å¤§ï¼Œæ‰€ä»¥æ‰°ä¹±æ¬¡åºåœ¨ä»»ä½•æƒ…å†µä¸‹éƒ½è¦åŠ æ‹¬å·
+                    result[1] = numberB.toString() + " Ã— (" + result[1] + ")";
                 }
-                result[3] = "¡Á";
+                result[3] = "Ã—";
                 break;
-            case '¡Â':
+            case 'Ã·':
                 while(numberB.isZero())
                     numberB = fractionGenerator();
-                // Èç¹ûÖ®Ç°µÄËãÊõÊ½½á¹ûÎª 0£¬Ôò±ØĞëµ÷»»Î»ÖÃ£»ºóÃæµÄËæ»úÊı¾ö¶¨ÔÚ·ûºÏÌõ¼şµÄÊ±ºòÊÇ·ñ¸ü»»´ÎĞòÒÔ¼Ó´óÌâÄ¿Ëæ»úĞÔ
+                // å¦‚æœä¹‹å‰çš„ç®—æœ¯å¼ç»“æœä¸º 0ï¼Œåˆ™å¿…é¡»è°ƒæ¢ä½ç½®ï¼›åé¢çš„éšæœºæ•°å†³å®šåœ¨ç¬¦åˆæ¡ä»¶çš„æ—¶å€™æ˜¯å¦æ›´æ¢æ¬¡åºä»¥åŠ å¤§é¢˜ç›®éšæœºæ€§
                 if(numberA.isZero() || numberB.isGreaterThan(numberA) || random.nextInt(2) == 0) {
-                    // Èç¹ûÔ­À´µÄÊ½×ÓÓÅÏÈ¼¶µÍ
+                    // å¦‚æœåŸæ¥çš„å¼å­ä¼˜å…ˆçº§ä½
                     if(result[3].equals("+") || result[3].equals("-")) {
-                        result[0] = "(" + result[0] + ") ¡Â " + numberB.toString();
-                        result[1] = "(" + result[1] + ") ¡Â " + numberB.toString();
+                        result[0] = "(" + result[0] + ") Ã· " + numberB.toString();
+                        result[1] = "(" + result[1] + ") Ã· " + numberB.toString();
                         result[2] = numberA.divide(numberB).toString();
                     }
                     else {
-                        result[0] = result[0] + " ¡Â " + numberB.toString();
-                        result[1] = result[1] + " ¡Â " + numberB.toString();
+                        result[0] = result[0] + " Ã· " + numberB.toString();
+                        result[1] = result[1] + " Ã· " + numberB.toString();
                         result[2] = numberA.divide(numberB).toString();
                     }
                 } else {
-                    // Èç¹û¸ü»»´ÎĞò£¬ÔòÎŞÂÛÈçºÎ¶¼±ØĞë¼ÓÀ¨ºÅ
-                    result[0] = numberB.toString() + " ¡Â (" + result[0] + ")";
-                    result[1] = numberB.toString() + " ¡Â (" + result[1] + ")";
+                    // å¦‚æœæ›´æ¢æ¬¡åºï¼Œåˆ™æ— è®ºå¦‚ä½•éƒ½å¿…é¡»åŠ æ‹¬å·
+                    result[0] = numberB.toString() + " Ã· (" + result[0] + ")";
+                    result[1] = numberB.toString() + " Ã· (" + result[1] + ")";
                     result[2] = numberB.divide(numberA).toString();
                 }
-                result[3] = "¡Â";
+                result[3] = "Ã·";
                 break;
         }
         return result;
     }
 
     /**
-     * ÈıËã×ÓËãÊõÊ½Éú³ÉÆ÷ - AĞÍ£¨3+1£©
-     * @return ×Ö·û´®Êı×é£¬[0]·ÅÖÃ»¯¼òµÄ²éÖØ×Ö·û´®£¬[1]·ÅÖÃ»ìÏıºóµÄÊµ¼Ê×Ö·û´®£¬[2]·ÅÖÃËãÊõÊ½´ğ°¸£¬[3]·ÅÖÃ±¾´ÎËãÊõÊ½Éú³ÉµÄÔËËã·û
+     * ä¸‰ç®—å­ç®—æœ¯å¼ç”Ÿæˆå™¨ - Aå‹ï¼ˆ3+1ï¼‰
+     * @return å­—ç¬¦ä¸²æ•°ç»„ï¼Œ[0]æ”¾ç½®åŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²ï¼Œ[1]æ”¾ç½®æ··æ·†åçš„å®é™…å­—ç¬¦ä¸²ï¼Œ[2]æ”¾ç½®ç®—æœ¯å¼ç­”æ¡ˆï¼Œ[3]æ”¾ç½®æœ¬æ¬¡ç®—æœ¯å¼ç”Ÿæˆçš„è¿ç®—ç¬¦
      */
     public String[] threeOpGeneratorA() {
-        // Éú³ÉÒ»¸öË«Ëã×ÓËãÊõÊ½
+        // ç”Ÿæˆä¸€ä¸ªåŒç®—å­ç®—æœ¯å¼
         String[] result = twoOpGenerator();
         Fraction numberA = Fraction.string2Fraction(result[2]);
         Fraction numberB = fractionGenerator();
@@ -609,28 +609,28 @@ public class ExerciseGenerator {
             case '+':
                 result[0] = result[0] + " + " + numberB.toString();
                 result[2] = numberA.add(numberB).toString();
-                // Ëæ»ú¾ö¶¨ÊÇ·ñÈÅÂÒ´ÎĞò
+                // éšæœºå†³å®šæ˜¯å¦æ‰°ä¹±æ¬¡åº
                 if(random.nextInt(2) == 0) {
-                    // ²»ÈÅÂÒ´ÎĞò
+                    // ä¸æ‰°ä¹±æ¬¡åº
                     result[1] = result[1] + " + " + numberB.toString();
                 }
                 else {
-                    // ÈÅÂÒ´ÎĞòÒª¼ì²é·ûºÅÓÅÏÈ¼¶£¬Èç¹ûÓÅÏÈ¼¶´ó£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[1] = numberB.toString() + " + " + result[1];
+                    // æ‰°ä¹±æ¬¡åºè¦æ£€æŸ¥ç¬¦å·ä¼˜å…ˆçº§ï¼Œå¦‚æœä¼˜å…ˆçº§å¤§ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[1] = numberB.toString() + " + " + result[1];
                     else result[1] = numberB.toString() + " + (" + result[1] + ")";
                 }
                 result[3] = "+";
                 break;
             case '-':
-                // Èç¹ûÇ°ÃæµÄÊı±ÈºóÃæµÄÊıĞ¡£¬ÔòĞèÒªµ÷»»Ë³Ğò
+                // å¦‚æœå‰é¢çš„æ•°æ¯”åé¢çš„æ•°å°ï¼Œåˆ™éœ€è¦è°ƒæ¢é¡ºåº
                 if(!numberA.isGreaterThan(numberB)) {
-                    // Èç¹ûÔ­±¾±í´ïÊ½·ûºÅÓÅÏÈ¼¶¸ß£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")){
+                    // å¦‚æœåŸæœ¬è¡¨è¾¾å¼ç¬¦å·ä¼˜å…ˆçº§é«˜ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")){
                         result[0] = numberB.toString() + " - " + result[0];
                         result[1] = numberB.toString() + " - " + result[1];
                         result[2] = numberB.subtract(numberA).toString();
                     }
-                    // Èç¹ûÔ­±¾±í´ïÊ½µÄÓÅÏÈ¼¶ºÍµ±Ç°µÄÏàÍ¬£¬ÔòĞèÒª¼ÓÀ¨ºÅ
+                    // å¦‚æœåŸæœ¬è¡¨è¾¾å¼çš„ä¼˜å…ˆçº§å’Œå½“å‰çš„ç›¸åŒï¼Œåˆ™éœ€è¦åŠ æ‹¬å·
                     else {
                         result[0] = numberB.toString() + " - (" + result[0] + ")";
                         result[1] = numberB.toString() + " - (" + result[1] + ")";
@@ -643,54 +643,54 @@ public class ExerciseGenerator {
                 }
                 result[3] = "-";
                 break;
-            case '¡Á':
-                // Èç¹ûÔ­ËãÊõÊ½ÓÅÏÈ¼¶ºÍ ¡Á ÏàµÈ£¬Ôò²»ĞèÒª¼ÓÀ¨ºÅ
-                if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[0] = result[0] + " ¡Á " + numberB.toString();
-                else result[0] = "(" + result[0] + ") ¡Á " + numberB.toString();
+            case 'Ã—':
+                // å¦‚æœåŸç®—æœ¯å¼ä¼˜å…ˆçº§å’Œ Ã— ç›¸ç­‰ï¼Œåˆ™ä¸éœ€è¦åŠ æ‹¬å·
+                if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[0] = result[0] + " Ã— " + numberB.toString();
+                else result[0] = "(" + result[0] + ") Ã— " + numberB.toString();
                 result[2] = numberA.multiply(numberB).toString();
-                // Ëæ»ú¾ö¶¨ÊÇ·ñÈÅÂÒ´ÎĞò
+                // éšæœºå†³å®šæ˜¯å¦æ‰°ä¹±æ¬¡åº
                 if(random.nextInt(2) == 0) {
-                    // Èç¹ûÓöµ½¼Ó¼õÒª¼ÓÀ¨ºÅ
-                    if(result[3].equals("¡Á") || result[3].equals("¡Â")) result[1] = result[1] + " ¡Á " + numberB.toString();
-                    else result[1] = "(" + result[1] + ") ¡Á " + numberB.toString();
+                    // å¦‚æœé‡åˆ°åŠ å‡è¦åŠ æ‹¬å·
+                    if(result[3].equals("Ã—") || result[3].equals("Ã·")) result[1] = result[1] + " Ã— " + numberB.toString();
+                    else result[1] = "(" + result[1] + ") Ã— " + numberB.toString();
                 }
                 else {
-                    // ÒòÎª ¡Á µÄÓÅÏÈ¼¶´ó£¬ËùÒÔÈÅÂÒ´ÎĞòÔÚÈÎºÎÇé¿öÏÂ¶¼Òª¼ÓÀ¨ºÅ
-                    result[1] = numberB.toString() + " ¡Á (" + result[1] + ")";
+                    // å› ä¸º Ã— çš„ä¼˜å…ˆçº§å¤§ï¼Œæ‰€ä»¥æ‰°ä¹±æ¬¡åºåœ¨ä»»ä½•æƒ…å†µä¸‹éƒ½è¦åŠ æ‹¬å·
+                    result[1] = numberB.toString() + " Ã— (" + result[1] + ")";
                 }
-                result[3] = "¡Á";
+                result[3] = "Ã—";
                 break;
-            case '¡Â':
+            case 'Ã·':
                 while(numberB.isZero())
                     numberB = fractionGenerator();
-                // Èç¹ûÖ®Ç°µÄËãÊõÊ½½á¹ûÎª 0£¬Ôò±ØĞëµ÷»»Î»ÖÃ£»ºóÃæµÄËæ»úÊı¾ö¶¨ÔÚ·ûºÏÌõ¼şµÄÊ±ºòÊÇ·ñ¸ü»»´ÎĞòÒÔ¼Ó´óÌâÄ¿Ëæ»úĞÔ
+                // å¦‚æœä¹‹å‰çš„ç®—æœ¯å¼ç»“æœä¸º 0ï¼Œåˆ™å¿…é¡»è°ƒæ¢ä½ç½®ï¼›åé¢çš„éšæœºæ•°å†³å®šåœ¨ç¬¦åˆæ¡ä»¶çš„æ—¶å€™æ˜¯å¦æ›´æ¢æ¬¡åºä»¥åŠ å¤§é¢˜ç›®éšæœºæ€§
                 if(numberA.isZero() || numberB.isGreaterThan(numberA) || random.nextInt(2) == 0) {
-                    // Èç¹ûÔ­À´µÄÊ½×ÓÓÅÏÈ¼¶µÍ
+                    // å¦‚æœåŸæ¥çš„å¼å­ä¼˜å…ˆçº§ä½
                     if(result[3].equals("+") || result[3].equals("-")) {
-                        result[0] = "(" + result[0] + ") ¡Â " + numberB.toString();
-                        result[1] = "(" + result[1] + ") ¡Â " + numberB.toString();
+                        result[0] = "(" + result[0] + ") Ã· " + numberB.toString();
+                        result[1] = "(" + result[1] + ") Ã· " + numberB.toString();
                         result[2] = numberA.divide(numberB).toString();
                     }
                     else {
-                        result[0] = result[0] + " ¡Â " + numberB.toString();
-                        result[1] = result[1] + " ¡Â " + numberB.toString();
+                        result[0] = result[0] + " Ã· " + numberB.toString();
+                        result[1] = result[1] + " Ã· " + numberB.toString();
                         result[2] = numberA.divide(numberB).toString();
                     }
                 } else {
-                    // Èç¹û¸ü»»´ÎĞò£¬ÔòÎŞÂÛÈçºÎ¶¼±ØĞë¼ÓÀ¨ºÅ
-                    result[0] = numberB.toString() + " ¡Â (" + result[0] + ")";
-                    result[1] = numberB.toString() + " ¡Â (" + result[1] + ")";
+                    // å¦‚æœæ›´æ¢æ¬¡åºï¼Œåˆ™æ— è®ºå¦‚ä½•éƒ½å¿…é¡»åŠ æ‹¬å·
+                    result[0] = numberB.toString() + " Ã· (" + result[0] + ")";
+                    result[1] = numberB.toString() + " Ã· (" + result[1] + ")";
                     result[2] = numberB.divide(numberA).toString();
                 }
-                result[3] = "¡Â";
+                result[3] = "Ã·";
                 break;
         }
         return result;
     }
 
     /**
-     * ÈıËã×ÓËãÊõÊ½Éú³ÉÆ÷ - BĞÍ£¨2+2£©
-     * @return ×Ö·û´®Êı×é£¬[0]·ÅÖÃ»¯¼òºóµÄ×Ö·û´®£¬[1]·ÅÖÃ»¯¼òÇ°µÄ×Ö·û´®£¬[2]·ÅÖÃËãÊõÊ½´ğ°¸
+     * ä¸‰ç®—å­ç®—æœ¯å¼ç”Ÿæˆå™¨ - Bå‹ï¼ˆ2+2ï¼‰
+     * @return å­—ç¬¦ä¸²æ•°ç»„ï¼Œ[0]æ”¾ç½®åŒ–ç®€åçš„å­—ç¬¦ä¸²ï¼Œ[1]æ”¾ç½®åŒ–ç®€å‰çš„å­—ç¬¦ä¸²ï¼Œ[2]æ”¾ç½®ç®—æœ¯å¼ç­”æ¡ˆ
      */
     public String[] threeOpGeneratorB() {
         String[] result = new String[4];
@@ -707,46 +707,46 @@ public class ExerciseGenerator {
         Fraction numberB = Fraction.string2Fraction(expB[2]);
         switch(opGenerator()) {
             case '-':
-                // ½«´óµÄÊı·ÅÔÚÇ°Ãæ
+                // å°†å¤§çš„æ•°æ”¾åœ¨å‰é¢
                 if(!numberA.isGreaterThan(numberB)) {
                     result[0] = "(" + expB[0] + ")" + " - " + "(" + expA[0] + ")";
                     result[1] = "(" + expB[1] + ")" + " - " + "(" + expA[1] + ")";
                     result[2] = numberB.subtract(numberA).toString();
                 }else {
-                    // ¶ÔÓÚ¼õ·¨µÄÇé¿ö£¬»¯¼òµÄ²éÖØ×Ö·û´®ºÍ»ìÏı×Ö·û´®ÊÇÒ»ÑùµÄ
+                    // å¯¹äºå‡æ³•çš„æƒ…å†µï¼ŒåŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²å’Œæ··æ·†å­—ç¬¦ä¸²æ˜¯ä¸€æ ·çš„
                     result[0] = "(" + expA[0] + ")" + " - " + "(" + expB[0] + ")";
                     result[1] = "(" + expA[1] + ")" + " - " + "(" + expB[1] + ")";
                     result[2] = numberA.subtract(numberB).toString();
                 }
                 result[3] = "-";
                 break;
-            case '¡Â':
-                // ±£Ö¤³ı·¨·ÖÄ¸²»Îª 0
+            case 'Ã·':
+                // ä¿è¯é™¤æ³•åˆ†æ¯ä¸ä¸º 0
                 while(numberB.isZero() || numberA.isGreaterThan(numberB)){
                     expB = oneOpGenerator();
                     numberB = Fraction.string2Fraction(expB[2]);
                 }
-                // ¶ÔÓÚ¼õ·¨µÄÇé¿ö£¬»¯¼òµÄ²éÖØ×Ö·û´®ºÍ»ìÏı×Ö·û´®ÊÇÒ»ÑùµÄ
-                result[0] = "(" + expA[0] + ")" + " ¡Â " + "(" + expB[0] + ")";
-                result[1] = "(" + expA[1] + ")" + " ¡Â " + "(" + expB[1] + ")";
+                // å¯¹äºå‡æ³•çš„æƒ…å†µï¼ŒåŒ–ç®€çš„æŸ¥é‡å­—ç¬¦ä¸²å’Œæ··æ·†å­—ç¬¦ä¸²æ˜¯ä¸€æ ·çš„
+                result[0] = "(" + expA[0] + ")" + " Ã· " + "(" + expB[0] + ")";
+                result[1] = "(" + expA[1] + ")" + " Ã· " + "(" + expB[1] + ")";
                 result[2] = numberA.divide(numberB).toString();
-                result[3] = "¡Â";
+                result[3] = "Ã·";
                 break;
             case '+':
-                // ¶ÔÓÚ¼Ó·¨µÄÇé¿ö£¬²éÖØ×Ö·û´®Òª°ÑÊı´ÓĞ¡µ½´óÅÅ£¬¶ø»ìÏı×Ö·û´®Ôò²»ĞèÒª
+                // å¯¹äºåŠ æ³•çš„æƒ…å†µï¼ŒæŸ¥é‡å­—ç¬¦ä¸²è¦æŠŠæ•°ä»å°åˆ°å¤§æ’ï¼Œè€Œæ··æ·†å­—ç¬¦ä¸²åˆ™ä¸éœ€è¦
                 if(numberA.isGreaterThan(numberB)) result[0] = "(" + expB[0] + ")" + " + " + "(" + expA[0] + ")";
                 else result[0] = "(" + expA[0] + ")" + " + " + "(" + expB[0] + ")";
                 result[1] = "(" + expA[1] + ")" + " + " + "(" + expB[1] + ")";
                 result[2] = numberA.add(numberB).toString();
                 result[3] = "+";
                 break;
-            case '¡Á':
-                // ¶ÔÓÚ³Ë·¨µÄÇé¿ö£¬²éÖØ×Ö·û´®Òª°ÑÊı´ÓĞ¡µ½´óÅÅ£¬¶ø»ìÏı×Ö·û´®Ôò²»ĞèÒª
-                if(numberA.isGreaterThan(numberB)) result[0] = "(" + expB[0] + ")" + " ¡Á " + "(" + expA[0] + ")";
-                else result[0] = "(" + expA[0] + ")" + " ¡Á " + "(" + expB[0] + ")";
-                result[1] = "(" + expA[1] + ")" + " ¡Á " + "(" + expB[1] + ")";
+            case 'Ã—':
+                // å¯¹äºä¹˜æ³•çš„æƒ…å†µï¼ŒæŸ¥é‡å­—ç¬¦ä¸²è¦æŠŠæ•°ä»å°åˆ°å¤§æ’ï¼Œè€Œæ··æ·†å­—ç¬¦ä¸²åˆ™ä¸éœ€è¦
+                if(numberA.isGreaterThan(numberB)) result[0] = "(" + expB[0] + ")" + " Ã— " + "(" + expA[0] + ")";
+                else result[0] = "(" + expA[0] + ")" + " Ã— " + "(" + expB[0] + ")";
+                result[1] = "(" + expA[1] + ")" + " Ã— " + "(" + expB[1] + ")";
                 result[2] = numberA.multiply(numberB).toString();
-                result[3] = "¡Á";
+                result[3] = "Ã—";
                 break;
         }
         return result;
@@ -754,9 +754,9 @@ public class ExerciseGenerator {
 }
 ```
 
-### UserInterface ÓÃ»§½Ó¿ÚÀà
+### UserInterface ç”¨æˆ·æ¥å£ç±»
 
-¸ºÔğ½øĞĞÌâÄ¿µÄÉú³ÉºÍ×÷ÒµµÄÅú¸Ä
+è´Ÿè´£è¿›è¡Œé¢˜ç›®çš„ç”Ÿæˆå’Œä½œä¸šçš„æ‰¹æ”¹
 
 ```java
 import java.beans.Transient;
@@ -795,12 +795,12 @@ public class UserInterface {
                         exerciseFileFW.flush();
                         answerFileFW.flush();
                     }
-                    System.out.println("Íê³É³öÌâ¡£");
+                    System.out.println("å®Œæˆå‡ºé¢˜ã€‚");
                 } else {
-                    System.out.println("Çë¼õĞ¡³öÌâÊıÁ¿»òÕßÔö´óÊıÖµ·¶Î§¡£");
+                    System.out.println("è¯·å‡å°å‡ºé¢˜æ•°é‡æˆ–è€…å¢å¤§æ•°å€¼èŒƒå›´ã€‚");
                 }
             } catch (IOException e) {
-                System.out.println("Çë¼ì²é¸ÃÄ¿Â¼ÊÇ·ñ¿ÉĞ´¡£");
+                System.out.println("è¯·æ£€æŸ¥è¯¥ç›®å½•æ˜¯å¦å¯å†™ã€‚");
             }
         }
         if (exercise != null && answer != null) {
@@ -848,19 +848,19 @@ public class UserInterface {
                 gradesFW.flush();
             }
             catch(Exception ex){
-                System.out.println("Åú¸Ä³ÌĞò³ö´í£¬Çë¼ì²éÊäÈëµÄÎÄ¼şÃûÊÇ·ñÕıÈ·¡£");
+                System.out.println("æ‰¹æ”¹ç¨‹åºå‡ºé”™ï¼Œè¯·æ£€æŸ¥è¾“å…¥çš„æ–‡ä»¶åæ˜¯å¦æ­£ç¡®ã€‚");
             }
-            System.out.println("Íê³ÉÅú¸Ä¡£");
+            System.out.println("å®Œæˆæ‰¹æ”¹ã€‚");
         }
     }
 }
 ```
 
-## ²âÊÔ
+## æµ‹è¯•
 
-±¾ÏîÄ¿ËùÓĞ²âÊÔ¶¼Ê¹ÓÃ Junit ½øĞĞ£¬²âÊÔ¸²¸ÇÁËËùÓĞµÄ·½·¨¡£
+æœ¬é¡¹ç›®æ‰€æœ‰æµ‹è¯•éƒ½ä½¿ç”¨ Junit è¿›è¡Œï¼Œæµ‹è¯•è¦†ç›–äº†æ‰€æœ‰çš„æ–¹æ³•ã€‚
 
-### FractionS2FTest ²âÊÔ×Ö·û´®<->·ÖÊı»¥»»¹¦ÄÜ
+### FractionS2FTest æµ‹è¯•å­—ç¬¦ä¸²<->åˆ†æ•°äº’æ¢åŠŸèƒ½
 
 ```java
 import org.junit.Test;
@@ -913,7 +913,7 @@ public class FractionS2FTest {
 }
 ```
 
-### FractionConstructorTest ²âÊÔ·ÖÊı¹¹Ôìº¯ÊıºÍ»¯¼ò¹¦ÄÜ
+### FractionConstructorTest æµ‹è¯•åˆ†æ•°æ„é€ å‡½æ•°å’ŒåŒ–ç®€åŠŸèƒ½
 
 ```java
 import org.junit.Test;
@@ -968,7 +968,7 @@ public class FractionConstructorTest {
 }
 ```
 
-### FractionArithmeticTest ²âÊÔ·ÖÊıËÄÔòÔËËãºÍËãÊõÊ½ÕûÌåÔËËã¹¦ÄÜ
+### FractionArithmeticTest æµ‹è¯•åˆ†æ•°å››åˆ™è¿ç®—å’Œç®—æœ¯å¼æ•´ä½“è¿ç®—åŠŸèƒ½
 
 ```java
 import org.junit.Test;
@@ -1026,32 +1026,32 @@ public class FractionArithmeticTest {
 
     @Test
     public void calculateStringExpTest() {
-        assertEquals("60'43/60", Fraction.calculateStringExp("(4/5 + 3'1/4) + (8'8/9 ¡Á 6'3/8)").toString());
-        assertEquals("0", Fraction.calculateStringExp("(1 ¡Á 0) ¡Â (6 + 3/8)").toString());
-        assertEquals("49'205/294", Fraction.calculateStringExp("2'5/7 ¡Á (3'1/2 + (6'1/7 + 8'2/3))").toString());
-        assertEquals("5'1/10", Fraction.calculateStringExp("3'2/3 ¡Á 3 - 1'1/2 - 4'2/5").toString());
-        assertEquals("0", Fraction.calculateStringExp("(4'1/2 - (1/2 + 4)) ¡Á 0").toString());
+        assertEquals("60'43/60", Fraction.calculateStringExp("(4/5 + 3'1/4) + (8'8/9 Ã— 6'3/8)").toString());
+        assertEquals("0", Fraction.calculateStringExp("(1 Ã— 0) Ã· (6 + 3/8)").toString());
+        assertEquals("49'205/294", Fraction.calculateStringExp("2'5/7 Ã— (3'1/2 + (6'1/7 + 8'2/3))").toString());
+        assertEquals("5'1/10", Fraction.calculateStringExp("3'2/3 Ã— 3 - 1'1/2 - 4'2/5").toString());
+        assertEquals("0", Fraction.calculateStringExp("(4'1/2 - (1/2 + 4)) Ã— 0").toString());
         assertEquals("1", Fraction.calculateStringExp("(5/7 + 1'1/4) - (1'5/7 - 3/4)").toString());
-        assertEquals("196/375", Fraction.calculateStringExp("4'1/5 ¡Á ((4/5 - 1/3) ¡Â 3'3/4)").toString());
-        assertEquals("3/7", Fraction.calculateStringExp("(1'3/4 ¡Á 1'1/3) ¡Â (3'4/9 + 2)").toString());
-        assertEquals("15'7/9", Fraction.calculateStringExp("2 ¡Á (4'8/9 + 3) - 0").toString());
-        assertEquals("23/35", Fraction.calculateStringExp("(1 + 5'4/7) ¡Â (4 ¡Á 2'1/2)").toString());
-        assertEquals("10/107", Fraction.calculateStringExp("1 ¡Â (2'3/4 + 2'3/5) ¡Á 1/2").toString());
+        assertEquals("196/375", Fraction.calculateStringExp("4'1/5 Ã— ((4/5 - 1/3) Ã· 3'3/4)").toString());
+        assertEquals("3/7", Fraction.calculateStringExp("(1'3/4 Ã— 1'1/3) Ã· (3'4/9 + 2)").toString());
+        assertEquals("15'7/9", Fraction.calculateStringExp("2 Ã— (4'8/9 + 3) - 0").toString());
+        assertEquals("23/35", Fraction.calculateStringExp("(1 + 5'4/7) Ã· (4 Ã— 2'1/2)").toString());
+        assertEquals("10/107", Fraction.calculateStringExp("1 Ã· (2'3/4 + 2'3/5) Ã— 1/2").toString());
         assertEquals("1'1/42",Fraction.calculateStringExp("2'6/7 - 2'2/3 - 1/6 + 1").toString());
-        assertEquals("1'26/35", Fraction.calculateStringExp("(3'3/5 - 1'6/7) - (0 ¡Á 1/2)").toString());
-        assertEquals("0", Fraction.calculateStringExp("1'1/6 ¡Á 5'1/7 ¡Á 0 + 0").toString());
-        assertEquals("1'17/114", Fraction.calculateStringExp("1'1/5 ¡Â 3'4/5 + 4 - 3'1/6").toString());
-        assertEquals("44/45", Fraction.calculateStringExp("4'8/9 ¡Â 5 ¡Á 1 ¡Â 1").toString());
-        assertEquals("65'1/3", Fraction.calculateStringExp("(5'1/3 + 0) ¡Á (4'3/8 ¡Á 2'4/5)").toString());
-        assertEquals("2'4/7", Fraction.calculateStringExp("2 ¡Â 3'1/2 + 2").toString());
-        assertEquals("24'17/60", Fraction.calculateStringExp("1'1/5 + 5'2/3 ¡Á 3'1/2 + 3'1/4").toString());
+        assertEquals("1'26/35", Fraction.calculateStringExp("(3'3/5 - 1'6/7) - (0 Ã— 1/2)").toString());
+        assertEquals("0", Fraction.calculateStringExp("1'1/6 Ã— 5'1/7 Ã— 0 + 0").toString());
+        assertEquals("1'17/114", Fraction.calculateStringExp("1'1/5 Ã· 3'4/5 + 4 - 3'1/6").toString());
+        assertEquals("44/45", Fraction.calculateStringExp("4'8/9 Ã· 5 Ã— 1 Ã· 1").toString());
+        assertEquals("65'1/3", Fraction.calculateStringExp("(5'1/3 + 0) Ã— (4'3/8 Ã— 2'4/5)").toString());
+        assertEquals("2'4/7", Fraction.calculateStringExp("2 Ã· 3'1/2 + 2").toString());
+        assertEquals("24'17/60", Fraction.calculateStringExp("1'1/5 + 5'2/3 Ã— 3'1/2 + 3'1/4").toString());
         assertEquals("5'7/12", Fraction.calculateStringExp("(4 - 2'1/4) + (4'5/6 - 1)").toString());
     }
 
 }
 ```
 
-### FractionMasterTest ·ÖÊı²âÊÔ»ã×ÜÀà£¬°ÑÉÏ·½Èı¸ö²âÊÔ¹éÒ»µ÷ÓÃ
+### FractionMasterTest åˆ†æ•°æµ‹è¯•æ±‡æ€»ç±»ï¼ŒæŠŠä¸Šæ–¹ä¸‰ä¸ªæµ‹è¯•å½’ä¸€è°ƒç”¨
 
 ```java
 import org.junit.runner.RunWith;
@@ -1066,7 +1066,7 @@ public class FractionMasterTest {
 }
 ```
 
-### ExerciseGeneratorTest ²âÊÔËãÊõÊ½Éú³ÉÀà
+### ExerciseGeneratorTest æµ‹è¯•ç®—æœ¯å¼ç”Ÿæˆç±»
 
 ```java
 import org.junit.Test;
@@ -1104,8 +1104,8 @@ public class ExerciseGeneratorTest {
             switch(exGen.opGenerator()){
                 case '+': add++; break;
                 case '-': sub++; break;
-                case '¡Á': mul++; break;
-                case '¡Â': div++; break;
+                case 'Ã—': mul++; break;
+                case 'Ã·': div++; break;
             }
         }
         assertTrue(sub > 0);
@@ -1173,7 +1173,7 @@ public class ExerciseGeneratorTest {
             if(i < 1000) {
                 ss = exGen.oneOpGenerator();
                 if (exGen.duplicateCheck(ss[0])) {
-                    System.out.println("ÕâÊÇµÚ " + (i + 1) + " ¸öËãÊõÊ½");
+                    System.out.println("è¿™æ˜¯ç¬¬ " + (i + 1) + " ä¸ªç®—æœ¯å¼");
                     for (String s : ss) {
                         System.out.println(s);
                     }
@@ -1183,7 +1183,7 @@ public class ExerciseGeneratorTest {
             else if(i < 10000){
                 ss = exGen.twoOpGenerator();
                 if (exGen.duplicateCheck(ss[0])) {
-                    System.out.println("ÕâÊÇµÚ " + (i + 1) + " ¸öËãÊõÊ½");
+                    System.out.println("è¿™æ˜¯ç¬¬ " + (i + 1) + " ä¸ªç®—æœ¯å¼");
                     for (String s : ss) {
                         System.out.println(s);
                     }
@@ -1193,7 +1193,7 @@ public class ExerciseGeneratorTest {
             else if(i < 50000){
                 ss = exGen.threeOpGeneratorA();
                 if (exGen.duplicateCheck(ss[0])) {
-                    System.out.println("ÕâÊÇµÚ " + (i + 1) + " ¸öËãÊõÊ½");
+                    System.out.println("è¿™æ˜¯ç¬¬ " + (i + 1) + " ä¸ªç®—æœ¯å¼");
                     for (String s : ss) {
                         System.out.println(s);
                     }
@@ -1203,7 +1203,7 @@ public class ExerciseGeneratorTest {
             else{
                 ss = exGen.threeOpGeneratorB();
                 if (exGen.duplicateCheck(ss[0])) {
-                    System.out.println("ÕâÊÇµÚ " + (i + 1) + " ¸öËãÊõÊ½");
+                    System.out.println("è¿™æ˜¯ç¬¬ " + (i + 1) + " ä¸ªç®—æœ¯å¼");
                     for (String s : ss) {
                         System.out.println(s);
                     }
@@ -1212,30 +1212,30 @@ public class ExerciseGeneratorTest {
             }
 
         }
-        System.out.println("Ò»¹²±£ÁôÁË " + saveOne + " ¸ö 1 ĞÍ±í´ïÊ½");
-        System.out.println("Ò»¹²±£ÁôÁË " + saveTwo + " ¸ö 2 ĞÍ±í´ïÊ½");
-        System.out.println("Ò»¹²±£ÁôÁË " + saveThreeA + " ¸ö 3A ĞÍ±í´ïÊ½");
-        System.out.println("Ò»¹²±£ÁôÁË " + saveThreeB + " ¸ö 3B ĞÍ±í´ïÊ½");
+        System.out.println("ä¸€å…±ä¿ç•™äº† " + saveOne + " ä¸ª 1 å‹è¡¨è¾¾å¼");
+        System.out.println("ä¸€å…±ä¿ç•™äº† " + saveTwo + " ä¸ª 2 å‹è¡¨è¾¾å¼");
+        System.out.println("ä¸€å…±ä¿ç•™äº† " + saveThreeA + " ä¸ª 3A å‹è¡¨è¾¾å¼");
+        System.out.println("ä¸€å…±ä¿ç•™äº† " + saveThreeB + " ä¸ª 3B å‹è¡¨è¾¾å¼");
     }
 
     @Test
     public void generateExpTest() {
         HashMap<String,String> result = exGen.generateExp();
         if(result != null) {
-            System.out.println("×îÖÕÉú³ÉµÄÌâÄ¿ºÍ´ğ°¸¹² " + result.size() + " ¶Ô");
+            System.out.println("æœ€ç»ˆç”Ÿæˆçš„é¢˜ç›®å’Œç­”æ¡ˆå…± " + result.size() + " å¯¹");
             for(Map.Entry<String, String> entry: result.entrySet())
             {
-                System.out.println("Ê½×Ó: "+ entry.getKey()+ " ´ğ°¸: "+entry.getValue());
+                System.out.println("å¼å­: "+ entry.getKey()+ " ç­”æ¡ˆ: "+entry.getValue());
             }
         }
         else {
-            System.out.println("range ºÍ number ²»Æ¥Åä");
+            System.out.println("range å’Œ number ä¸åŒ¹é…");
         }
     }
 }
 ```
 
-### UserInterfaceTest ²âÊÔÓÃ»§½Ó¿ÚÀà
+### UserInterfaceTest æµ‹è¯•ç”¨æˆ·æ¥å£ç±»
 
 ```java
 import org.junit.Test;
@@ -1252,7 +1252,7 @@ public class UserInterfaceTest {
 }
 ```
 
-### MyAppMasterTest Èí¼şÕûÌå²âÊÔ£¬ÎªÁË¼ì²é´úÂë¸²¸ÇÂÊ
+### MyAppMasterTest è½¯ä»¶æ•´ä½“æµ‹è¯•ï¼Œä¸ºäº†æ£€æŸ¥ä»£ç è¦†ç›–ç‡
 
 ```java
 import org.junit.runner.RunWith;
@@ -1267,42 +1267,42 @@ public class MyAppMasterTest {
 }
 ```
 
-![´úÂë¸²¸ÇÂÊÍ¼](resources/image2.jpg)
-![²âÊÔÍ¨¹ıÍ¼](resources/image3.jpg)
+![ä»£ç è¦†ç›–ç‡å›¾](resources/image2.jpg)
+![æµ‹è¯•é€šè¿‡å›¾](resources/image3.jpg)
 
-ÕûÌå´úÂë¸²¸ÇÂÊÎª** 100% classes, 97% lines **
+æ•´ä½“ä»£ç è¦†ç›–ç‡ä¸º** 100% classes, 97% lines **
 
-Ëæ»úÊä³ö 10000 Ìõ 10 ·¶Î§ÒÔÄÚµÄ±í´ïÊ½ºÍ´ğ°¸:
+éšæœºè¾“å‡º 1000 æ¡ 10 èŒƒå›´ä»¥å†…çš„è¡¨è¾¾å¼å’Œç­”æ¡ˆ:
 
-[µã»÷ÎÒ²é¿´10000Ìõ±í´ïÊ½](resources/Exercises.txt)
+[ç‚¹å‡»æˆ‘æŸ¥çœ‹1000æ¡è¡¨è¾¾å¼](resources/Exercises.txt)
 
-[µã»÷ÎÒ²é¿´10000Ìõ´ğ°¸](resources/Answers.txt)
+[ç‚¹å‡»æˆ‘æŸ¥çœ‹1000æ¡ç­”æ¡ˆ](resources/Answers.txt)
 
-Åú¸Ä¸ø¶¨µÄÌâÄ¿ºÍ´ğ°¸
+æ‰¹æ”¹ç»™å®šçš„é¢˜ç›®å’Œç­”æ¡ˆ
 
-[µã»÷²é¿´1000µÀÌâÄ¿µÄÅú¸Ä½á¹û](resources/Grade.txt)
+[ç‚¹å‡»æŸ¥çœ‹1000é“é¢˜ç›®çš„æ‰¹æ”¹ç»“æœ](resources/Grade.txt)
 
 ## PSP
 
-| PSP2.1                                  | Personal Software Process Stages        | Ô¤¹ÀºÄÊ±£¨·ÖÖÓ£© | Êµ¼ÊºÄÊ±£¨·ÖÖÓ£© |
+| PSP2.1                                  | Personal Software Process Stages        | é¢„ä¼°è€—æ—¶ï¼ˆåˆ†é’Ÿï¼‰ | å®é™…è€—æ—¶ï¼ˆåˆ†é’Ÿï¼‰ |
 | --------------------------------------- | --------------------------------------- | ---------------- | ---------------- |
-| Planning                                | ¼Æ»®                                    |                  |                  |
-| ¡¤ Estimate                              | ¡¤ ¹À¼ÆÕâ¸öÈÎÎñĞèÒª¶àÉÙÊ±¼ä              | 30               | 60               |
-| Development                             | ¿ª·¢                                    |                  |                  |
-| ¡¤ Analysis                              | ¡¤ ĞèÇó·ÖÎö (°üÀ¨Ñ§Ï°ĞÂ¼¼Êõ)             | 45               | 75               |
-| ¡¤ Design Spec                           | ¡¤ Éú³ÉÉè¼ÆÎÄµµ                          | 60               | 75               |
-| ¡¤ Design Review                         | ¡¤ Éè¼Æ¸´Éó (ºÍÍ¬ÊÂÉóºËÉè¼ÆÎÄµµ)         | 30               | 60               |
-| ¡¤ Coding Standard                       | ¡¤ ´úÂë¹æ·¶ (ÎªÄ¿Ç°µÄ¿ª·¢ÖÆ¶¨ºÏÊÊµÄ¹æ·¶) | 30               | 45               |
-| ¡¤ Design                                | ¡¤ ¾ßÌåÉè¼Æ                              | 90               | 120              |
-| ¡¤ Coding                                | ¡¤ ¾ßÌå±àÂë                              | 660              | 900              |
-| ¡¤ Code Review                           | ¡¤ ´úÂë¸´Éó                              | 60               | 90               |
-| ¡¤ Test                                  | ¡¤ ²âÊÔ£¨×ÔÎÒ²âÊÔ£¬ĞŞ¸Ä´úÂë£¬Ìá½»ĞŞ¸Ä£©  | 480              | 630              |
-| Reporting                               | ±¨¸æ                                    |                  |                  |
-| ¡¤ Test Report                           | ¡¤ ²âÊÔ±¨¸æ                              | 45               | 60               |
-| ¡¤ Size Measurement                      | ¡¤ ¼ÆËã¹¤×÷Á¿                            | 30               | 20               |
-| ¡¤ Postmortem & Process Improvement Plan | ¡¤ ÊÂºó×Ü½á, ²¢Ìá³ö¹ı³Ì¸Ä½ø¼Æ»®          | 45               | 40               |
-| ºÏ¼Æ                                    |                                         | 1575             | 2175             |
+| Planning                                | è®¡åˆ’                                    |                  |                  |
+| Â· Estimate                              | Â· ä¼°è®¡è¿™ä¸ªä»»åŠ¡éœ€è¦å¤šå°‘æ—¶é—´              | 30               | 60               |
+| Development                             | å¼€å‘                                    |                  |                  |
+| Â· Analysis                              | Â· éœ€æ±‚åˆ†æ (åŒ…æ‹¬å­¦ä¹ æ–°æŠ€æœ¯)             | 45               | 75               |
+| Â· Design Spec                           | Â· ç”Ÿæˆè®¾è®¡æ–‡æ¡£                          | 60               | 75               |
+| Â· Design Review                         | Â· è®¾è®¡å¤å®¡ (å’ŒåŒäº‹å®¡æ ¸è®¾è®¡æ–‡æ¡£)         | 30               | 60               |
+| Â· Coding Standard                       | Â· ä»£ç è§„èŒƒ (ä¸ºç›®å‰çš„å¼€å‘åˆ¶å®šåˆé€‚çš„è§„èŒƒ) | 30               | 45               |
+| Â· Design                                | Â· å…·ä½“è®¾è®¡                              | 90               | 120              |
+| Â· Coding                                | Â· å…·ä½“ç¼–ç                               | 660              | 900              |
+| Â· Code Review                           | Â· ä»£ç å¤å®¡                              | 60               | 90               |
+| Â· Test                                  | Â· æµ‹è¯•ï¼ˆè‡ªæˆ‘æµ‹è¯•ï¼Œä¿®æ”¹ä»£ç ï¼Œæäº¤ä¿®æ”¹ï¼‰  | 480              | 630              |
+| Reporting                               | æŠ¥å‘Š                                    |                  |                  |
+| Â· Test Report                           | Â· æµ‹è¯•æŠ¥å‘Š                              | 45               | 60               |
+| Â· Size Measurement                      | Â· è®¡ç®—å·¥ä½œé‡                            | 30               | 20               |
+| Â· Postmortem & Process Improvement Plan | Â· äº‹åæ€»ç»“, å¹¶æå‡ºè¿‡ç¨‹æ”¹è¿›è®¡åˆ’          | 45               | 40               |
+| åˆè®¡                                    |                                         | 1575             | 2175             |
 
-## ×Ü½á
+## æ€»ç»“
 
-ÓëÍõ´äğ½Í¬Ñ§Ò»ÆğÌÖÂÛÌâÄ¿µÄÊµÏÖ£¬ÎÒÖ÷Òª¸ºÔğ´úÂëµÄ¹¹Ë¼ºÍ±àĞ´£¬Íõ´äğ½Í¬Ñ§Ö÷Òª¸ºÔğÎÒË¼Â·µÄ¸´ÉóÒÔ¼°²¿·Ö»ù´¡´úÂëµÄ±àĞ´¡£ÔÚÕâ¸ö×÷ÒµÀïÃæ£¬Íõ´äğ½Í¬Ñ§Ö÷Òª¸ºÔğÁË·ÖÊıÀà Fraction µÄÊµÏÖ£¬¶øÎÒÖ÷Òª¸ºÔğÁË±í´ïÊ½Éú³ÉÀà ExerciseGenerator µÄÊµÏÖ¡£½á¶Ô±à³ÌÓĞ¸öºÃ´¦¾ÍÊÇÄÜÈÃÎÒÃÇÄÜÏà»¥ÉóÔÄ¶Ô·½µÄ´úÂë£¬¼õÉÙ³öÏÖ´íÎóµÄ¼¸ÂÊ¡£Í¬Ê±£¬Á½¸öÈËÉÌÁ¿ÌÖÂÛ×÷ÒµµÄÊµÏÖ£¬ÄÜÈÃË¼Â·¸ü¼Ó¿É¿¿¡£±¾ÏîÄ¿ÖĞµÄ²âÊÔÀàÖ÷ÒªÊÇÓÉÎÒÀ´±àĞ´£¬ÓÉÓÚÎÒÔÚÉÏÒ»´ÎµÄ×÷ÒµÖĞÃ»ÓĞ¹ı¶àµØ¹Ø×¢²âÊÔµÄÄÚÈİ£¬Ôì³ÉÁË´úÂë³öÏÖÁËÒâÁÏÖ®ÍâµÄbug¡£ÕâÒ»´Î£¬ÎÒÃÇ¶ÔËùÓĞµÄ·½·¨Ê¹ÓÃ junit ½øĞĞÁËµ¥Ôª²âÊÔºÍÕûÌå²âÊÔ£¬±£Ö¤ÁË´úÂë¸²¸Çµ½Ã¿Ò»ĞĞ£¨³ıÁËÒì³££©£¬¹ûÈ»·¢ÏÖÁËºÜ¶àÒşÄäµÄÎÊÌâ¡£Íõ´äğ½Í¬Ñ§µÄ´úÂëÄÜÁ¦»¹ÊÇºÜÔúÊµµÄ£¬Ã¿´ÎÎÒÌá³öĞèÇó£¬Ëı¶¼ÄÜÔÚ¶ÌÊ±¼ä¸øÎÒ¹¦ÄÜÍêÕû¡¢×¢ÊÍÍêÉÆµÄ´úÂë·´À¡£¬ºÍËıºÏ×÷µÄ¹ı³ÌÒ²Ê®·ÖÓä¿ì¡£
+ä¸ç‹ç¿ é¸¾åŒå­¦ä¸€èµ·è®¨è®ºé¢˜ç›®çš„å®ç°ï¼Œæˆ‘ä¸»è¦è´Ÿè´£ä»£ç çš„æ„æ€å’Œç¼–å†™ï¼Œç‹ç¿ é¸¾åŒå­¦ä¸»è¦è´Ÿè´£æˆ‘æ€è·¯çš„å¤å®¡ä»¥åŠéƒ¨åˆ†åŸºç¡€ä»£ç çš„ç¼–å†™ã€‚åœ¨è¿™ä¸ªä½œä¸šé‡Œé¢ï¼Œç‹ç¿ é¸¾åŒå­¦ä¸»è¦è´Ÿè´£äº†åˆ†æ•°ç±» Fraction çš„å®ç°ï¼Œè€Œæˆ‘ä¸»è¦è´Ÿè´£äº†è¡¨è¾¾å¼ç”Ÿæˆç±» ExerciseGenerator çš„å®ç°ã€‚ç»“å¯¹ç¼–ç¨‹æœ‰ä¸ªå¥½å¤„å°±æ˜¯èƒ½è®©æˆ‘ä»¬èƒ½ç›¸äº’å®¡é˜…å¯¹æ–¹çš„ä»£ç ï¼Œå‡å°‘å‡ºç°é”™è¯¯çš„å‡ ç‡ã€‚åŒæ—¶ï¼Œä¸¤ä¸ªäººå•†é‡è®¨è®ºä½œä¸šçš„å®ç°ï¼Œèƒ½è®©æ€è·¯æ›´åŠ å¯é ã€‚æœ¬é¡¹ç›®ä¸­çš„æµ‹è¯•ç±»ä¸»è¦æ˜¯ç”±æˆ‘æ¥ç¼–å†™ï¼Œç”±äºæˆ‘åœ¨ä¸Šä¸€æ¬¡çš„ä½œä¸šä¸­æ²¡æœ‰è¿‡å¤šåœ°å…³æ³¨æµ‹è¯•çš„å†…å®¹ï¼Œé€ æˆäº†ä»£ç å‡ºç°äº†æ„æ–™ä¹‹å¤–çš„bugã€‚è¿™ä¸€æ¬¡ï¼Œæˆ‘ä»¬å¯¹æ‰€æœ‰çš„æ–¹æ³•ä½¿ç”¨ junit è¿›è¡Œäº†å•å…ƒæµ‹è¯•å’Œæ•´ä½“æµ‹è¯•ï¼Œä¿è¯äº†ä»£ç è¦†ç›–åˆ°æ¯ä¸€è¡Œï¼ˆé™¤äº†å¼‚å¸¸ï¼‰ï¼Œæœç„¶å‘ç°äº†å¾ˆå¤šéšåŒ¿çš„é—®é¢˜ã€‚ç‹ç¿ é¸¾åŒå­¦çš„ä»£ç èƒ½åŠ›è¿˜æ˜¯å¾ˆæ‰å®çš„ï¼Œæ¯æ¬¡æˆ‘æå‡ºéœ€æ±‚ï¼Œå¥¹éƒ½èƒ½åœ¨çŸ­æ—¶é—´ç»™æˆ‘åŠŸèƒ½å®Œæ•´ã€æ³¨é‡Šå®Œå–„çš„ä»£ç åé¦ˆï¼Œå’Œå¥¹åˆä½œçš„è¿‡ç¨‹ä¹Ÿååˆ†æ„‰å¿«ã€‚
