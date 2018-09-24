@@ -1,6 +1,6 @@
 # 四则运算
 
-[GitHub仓库](https://github.com/Pramy/calculate)
+[GitHub仓库](https://github.com/EdwardLiu-Aurora/MyApp)
 
 ## 功能实现
 
@@ -33,7 +33,7 @@
     - 型如 (A ? B) ? (C ? D) 的表达式
     - 在生成表达式时，保证查重式 A < B 且 C < D 且 A < C 即可。
 
-![四种表达式的举例](resources/1.jpg)
+![四种表达式的举例](resources/1.png)
 
 > 上述表达中有几点需要解释：
 >
