@@ -1272,11 +1272,11 @@ public class MyAppMasterTest {
 
 整体代码覆盖率为** 100% classes, 97% lines **
 
-随机输出 1000 条 10 范围以内的表达式和答案:
+随机输出 10000 条 10 范围以内的表达式和答案:
 
-[点击我查看1000条表达式](resources/Exercises.txt)
+[点击我查看10000条表达式](resources/Exercises.txt)
 
-[点击我查看1000条答案](resources/Answers.txt)
+[点击我查看10000条答案](resources/Answers.txt)
 
 批改给定的题目和答案
 
